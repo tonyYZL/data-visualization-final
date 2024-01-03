@@ -1,0 +1,903 @@
+{% extends "base.html" %} {% block form %}
+<script
+  src="https://cdn01.jotfor.ms/static/jotform.forms.js?v=3.3.49719"
+  type="text/javascript"></script>
+<script
+  src="https://cdn02.jotfor.ms/js/punycode-1.4.1.min.js?v=3.3.49719"
+  type="text/javascript"
+  defer></script>
+<script
+  src="https://cdn03.jotfor.ms/js/payments/validategateways.js?v=3.3.49719"
+  type="text/javascript"></script>
+<script
+  src="https://cdn01.jotfor.ms/s/umd/3497343033f/for-form-branding-footer.js?v=3.3.49719"
+  type="text/javascript"
+  defer></script>
+<script
+  src="https://cdn01.jotfor.ms/js/vendor/smoothscroll.min.js?v=3.3.49719"
+  type="text/javascript"></script>
+<script
+  src="https://cdn02.jotfor.ms/js/errorNavigation.js?v=3.3.49719"
+  type="text/javascript"></script>
+<script type="text/javascript">
+  JotForm.newDefaultTheme = true;
+  JotForm.extendsNewTheme = false;
+  JotForm.singleProduct = false;
+  JotForm.newPaymentUIForNewCreatedForms = false;
+  JotForm.texts = {
+    confirmEmail: "E-mail does not match",
+    pleaseWait: "Please wait...",
+    validateEmail: "You need to validate this e-mail",
+    confirmClearForm: "Are you sure you want to clear the form",
+    lessThan: "Your score should be less than or equal to",
+    incompleteFields:
+      "There are incomplete required fields. Please complete them.",
+    required: "This field is required.",
+    requireOne: "At least one field required.",
+    requireEveryRow: "Every row is required.",
+    requireEveryCell: "Every cell is required.",
+    email: "Enter a valid e-mail address",
+    alphabetic: "This field can only contain letters",
+    numeric: "This field can only contain numeric values",
+    alphanumeric: "This field can only contain letters and numbers.",
+    cyrillic: "This field can only contain cyrillic characters",
+    url: "This field can only contain a valid URL",
+    currency: "This field can only contain currency values.",
+    fillMask: "Field value must fill mask.",
+    uploadExtensions: "You can only upload following files:",
+    noUploadExtensions:
+      "File has no extension file type (e.g. .txt, .png, .jpeg)",
+    uploadFilesize: "File size cannot be bigger than:",
+    uploadFilesizemin: "File size cannot be smaller than:",
+    gradingScoreError: "Score total should only be less than or equal to",
+    inputCarretErrorA: "Input should not be less than the minimum value:",
+    inputCarretErrorB: "Input should not be greater than the maximum value:",
+    maxDigitsError: "The maximum digits allowed is",
+    minCharactersError:
+      "The number of characters should not be less than the minimum value:",
+    maxCharactersError:
+      "The number of characters should not be more than the maximum value:",
+    freeEmailError: "Free email accounts are not allowed",
+    minSelectionsError: "The minimum required number of selections is ",
+    maxSelectionsError: "The maximum number of selections allowed is ",
+    pastDatesDisallowed: "Date must not be in the past.",
+    dateLimited: "This date is unavailable.",
+    dateInvalid: "This date is not valid. The date format is {format}",
+    dateInvalidSeparate: "This date is not valid. Enter a valid {element}.",
+    ageVerificationError:
+      "You must be older than {minAge} years old to submit this form.",
+    multipleFileUploads_typeError:
+      "{file} has invalid extension. Only {extensions} are allowed.",
+    multipleFileUploads_sizeError:
+      "{file} is too large, maximum file size is {sizeLimit}.",
+    multipleFileUploads_minSizeError:
+      "{file} is too small, minimum file size is {minSizeLimit}.",
+    multipleFileUploads_emptyError:
+      "{file} is empty, please select files again without it.",
+    multipleFileUploads_uploadFailed:
+      "File upload failed, please remove it and upload the file again.",
+    multipleFileUploads_onLeave:
+      "The files are being uploaded, if you leave now the upload will be cancelled.",
+    multipleFileUploads_fileLimitError:
+      "Only {fileLimit} file uploads allowed.",
+    dragAndDropFilesHere_infoMessage: "Drag and drop files here",
+    chooseAFile_infoMessage: "Choose a file",
+    maxFileSize_infoMessage: "Max. file size",
+    generalError:
+      "There are errors on the form. Please fix them before continuing.",
+    generalPageError:
+      "There are errors on this page. Please fix them before continuing.",
+    wordLimitError: "Too many words. The limit is",
+    wordMinLimitError: "Too few words.  The minimum is",
+    characterLimitError: "Too many Characters.  The limit is",
+    characterMinLimitError: "Too few characters. The minimum is",
+    ccInvalidNumber: "Credit Card Number is invalid.",
+    ccInvalidCVC: "CVC number is invalid.",
+    ccInvalidExpireDate: "Expire date is invalid.",
+    ccInvalidExpireMonth: "Expiration month is invalid.",
+    ccInvalidExpireYear: "Expiration year is invalid.",
+    ccMissingDetails: "Please fill up the credit card details.",
+    ccMissingProduct: "Please select at least one product.",
+    ccMissingDonation: "Please enter numeric values for donation amount.",
+    disallowDecimals: "Please enter a whole number.",
+    restrictedDomain: "This domain is not allowed",
+    ccDonationMinLimitError: "Minimum amount is {minAmount} {currency}",
+    requiredLegend: "All fields marked with * are required and must be filled.",
+    geoPermissionTitle: "Permission Denied",
+    geoPermissionDesc: "Check your browser's privacy settings.",
+    geoNotAvailableTitle: "Position Unavailable",
+    geoNotAvailableDesc:
+      "Location provider not available. Please enter the address manually.",
+    geoTimeoutTitle: "Timeout",
+    geoTimeoutDesc: "Please check your internet connection and try again.",
+    selectedTime: "Selected Time",
+    formerSelectedTime: "Former Time",
+    cancelAppointment: "Cancel Appointment",
+    cancelSelection: "Cancel Selection",
+    noSlotsAvailable: "No slots available",
+    slotUnavailable:
+      "{time} on {date} has been selected is unavailable. Please select another slot.",
+    multipleError:
+      "There are {count} errors on this page. Please correct them before moving on.",
+    oneError:
+      "There is {count} error on this page. Please correct it before moving on.",
+    doneMessage: "Well done! All errors are fixed.",
+    doneButton: "Done",
+    reviewSubmitText: "Review and Submit",
+    nextButtonText: "Next",
+    prevButtonText: "Previous",
+    seeErrorsButton: "See Errors",
+    notEnoughStock: "Not enough stock for the current selection",
+    notEnoughStock_remainedItems:
+      "Not enough stock for the current selection ({count} items left)",
+    soldOut: "Sold Out",
+    justSoldOut: "Just Sold Out",
+    selectionSoldOut: "Selection Sold Out",
+    subProductItemsLeft: "({count} items left)",
+    startButtonText: "START",
+    submitButtonText: "Submit",
+    submissionLimit:
+      "Sorry! Only one entry is allowed. Multiple submissions are disabled for this form.",
+    reviewBackText: "Back to Form",
+    seeAllText: "See All",
+    progressMiddleText: "of",
+    fieldError: "field has an error.",
+    error: "Error",
+  };
+  JotForm.newPaymentUI = true;
+  JotForm.replaceTagTest = true;
+  JotForm.clearFieldOnHide = "disable";
+  JotForm.submitError = "jumpToFirstError";
+  window.addEventListener("DOMContentLoaded", function () {
+    window.brandingFooter.init({
+      formID: 240004617398455,
+      campaign: "powered_by_jotform_le",
+      isCardForm: false,
+      isLegacyForm: true,
+    });
+  });
+  JotForm.isFullSource = true;
+
+  JotForm.init(function () {
+    /*INIT-START*/
+    /*INIT-END*/
+  });
+
+  setTimeout(function () {
+    JotForm.paymentExtrasOnTheFly([
+      null,
+      { name: "clickTo", qid: "1", text: "疾病調查", type: "control_head" },
+      null,
+      { name: "input3", qid: "3", text: "性別：", type: "control_radio" },
+      null,
+      null,
+      {
+        name: "email6",
+        qid: "6",
+        subLabel: "example@example.com",
+        text: "E-mail",
+        type: "control_email",
+      },
+      null,
+      null,
+      { name: "submit", qid: "9", text: "Submit", type: "control_button" },
+      {
+        description: "",
+        name: "input10",
+        qid: "10",
+        text: "年齡：",
+        type: "control_radio",
+      },
+      {
+        description: "",
+        name: "feedbackType11",
+        qid: "11",
+        text: "是否已婚 :",
+        type: "control_radio",
+      },
+      {
+        description: "",
+        name: "feedbackType12",
+        qid: "12",
+        text: "居住地區 :",
+        type: "control_radio",
+      },
+      {
+        description: "",
+        name: "feedbackType13",
+        qid: "13",
+        text: "BMI：",
+        type: "control_radio",
+      },
+      {
+        description: "",
+        name: "feedbackType14",
+        qid: "14",
+        text: "有無吸菸：",
+        type: "control_radio",
+      },
+      {
+        description: "",
+        name: "feedbackType15",
+        qid: "15",
+        text: "有無中風 :",
+        type: "control_radio",
+      },
+    ]);
+  }, 20);
+</script>
+<link
+  type="text/css"
+  rel="stylesheet"
+  href="https://cdn01.jotfor.ms/themes/CSS/form-common.css?v=3a1715d
+" />
+<style type="text/css">
+  @media print {
+    * {
+      -webkit-print-color-adjust: exact !important;
+      color-adjust: exact !important;
+    }
+    .form-section {
+      display: inline !important;
+    }
+    .form-pagebreak {
+      display: none !important;
+    }
+    .form-section-closed {
+      height: auto !important;
+    }
+    .page-section {
+      position: initial !important;
+    }
+  }
+</style>
+<link
+  type="text/css"
+  rel="stylesheet"
+  href="https://cdn02.jotfor.ms/themes/CSS/5e6b428acc8c4e222d1beb91.css?v=3.3.49719&themeRevisionID=5f30e2a790832f3e96009402" />
+<link
+  type="text/css"
+  rel="stylesheet"
+  href="https://cdn03.jotfor.ms/css/styles/payment/payment_styles.css?3.3.49719" />
+<link
+  type="text/css"
+  rel="stylesheet"
+  href="https://cdn01.jotfor.ms/css/styles/payment/payment_feature.css?3.3.49719" />
+<link
+  type="text/css"
+  rel="stylesheet"
+  href="https://cdn02.jotfor.ms/stylebuilder/donationBox.css?v=3.3.49719" />
+<style type="text/css" id="form-designer-style">
+  /* Injected CSS Code */
+  /*PREFERENCES STYLE*/
+  .form-all {
+    font-family: Inter, sans-serif;
+  }
+
+  .form-label.form-label-auto {
+    display: block;
+    float: none;
+    text-align: left;
+    width: 100%;
+  }
+
+  .form-line {
+    margin-top: 12px 36px 12px 36px px;
+    margin-bottom: 12px 36px 12px 36px px;
+  }
+
+  .form-all {
+    max-width: 752px;
+    width: 100%;
+  }
+
+  .form-label.form-label-left,
+  .form-label.form-label-right,
+  .form-label.form-label-left.form-label-auto,
+  .form-label.form-label-right.form-label-auto {
+    width: 230px;
+  }
+
+  .form-all {
+    font-size: 16px;
+  }
+
+  .supernova .form-all,
+  .form-all {
+    background-color: #fff;
+  }
+
+  .form-all {
+    color: #2c3345;
+  }
+  .form-header-group .form-header {
+    color: #2c3345;
+  }
+  .form-header-group .form-subHeader {
+    color: #2c3345;
+  }
+  .form-label-top,
+  .form-label-left,
+  .form-label-right,
+  .form-html,
+  .form-checkbox-item label,
+  .form-radio-item label,
+  span.FITB .qb-checkbox-label,
+  span.FITB .qb-radiobox-label,
+  span.FITB .form-radio label,
+  span.FITB .form-checkbox label,
+  [data-blotid][data-type="checkbox"] [data-labelid],
+  [data-blotid][data-type="radiobox"] [data-labelid],
+  span.FITB-inptCont[data-type="checkbox"] label,
+  span.FITB-inptCont[data-type="radiobox"] label {
+    color: #2c3345;
+  }
+  .form-sub-label {
+    color: #464d5f;
+  }
+
+  .supernova {
+    background-color: undefined;
+  }
+  .supernova body {
+    background: transparent;
+  }
+
+  .form-textbox,
+  .form-textarea,
+  .form-dropdown,
+  .form-radio-other-input,
+  .form-checkbox-other-input,
+  .form-captcha input,
+  .form-spinner input {
+    background-color: undefined;
+  }
+
+  .supernova {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
+  }
+
+  .supernova,
+  #stage {
+    background-image: none;
+  }
+
+  .form-all {
+    background-image: none;
+  }
+  /*PREFERENCES STYLE*/ /*__INSPECT_SEPERATOR__*/
+  /* Injected CSS Code */
+</style>
+
+<form
+  class="jotform-form"
+  action="{{url_for('submit')}}"
+  method="post"
+  name="form_240004617398455"
+  id="240004617398455"
+  accept-charset="utf-8"
+  autocomplete="on">
+  <input type="hidden" name="formID" value="240004617398455" /><input
+    type="hidden"
+    id="JWTContainer"
+    value="" /><input type="hidden" id="cardinalOrderNumber" value="" /><input
+    type="hidden"
+    id="jsExecutionTracker"
+    name="jsExecutionTracker"
+    value="build-date-1704123545522" /><input
+    type="hidden"
+    id="submitSource"
+    name="submitSource"
+    value="unknown" /><input
+    type="hidden"
+    id="buildDate"
+    name="buildDate"
+    value="1704123545522" />
+  <div role="main" class="form-all" style="border-radius: 1rem; box-shadow: 0 20px 27px 0 rgba(0, 0, 0, 0.05);">
+    <ul class="form-section page-section">
+      <li id="cid_1" class="form-input-wide" data-type="control_head">
+        <div class="form-header-group header-large">
+          <div class="header-text httal htvam">
+            <h1 id="header_1" class="form-header" data-component="header">
+              疾病調查
+            </h1>
+            <div id="subHeader_1" class="form-subHeader">
+              您好，歡迎來到疾病調查即時系統，輸入基本資訊後，會顯示與你同齡層的疾病分布，讓你對自己的疾病更加重視。
+            </div>
+            <br />
+            <small><span style="color: red">*</span> 必填</small>
+          </div>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_radio" id="id_3">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_3"
+          aria-hidden="false"
+          >性別：<span style="color: red">*</span></label
+        >
+        <div id="cid_3" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_3"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_3"
+                class="form-radio"
+                id="gender_1"
+                name="gender"
+                value="Male"
+                required />
+              <label id="gender" for="gender_1">男性</label>
+            </span>
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_3"
+                class="form-radio"
+                id="gender_2"
+                name="gender"
+                value="Female"
+                required />
+              <label id="gender" for="gender_2">女性</label>
+            </span>
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_radio" id="id_10">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_10"
+          aria-hidden="false">
+          年齡：<span style="color: red">*</span>
+        </label>
+        <div id="cid_10" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_10"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_1"
+                name="age"
+                value="15.0"
+                required />
+              <label id="age" for="age_1">11~20</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_2"
+                name="age"
+                value="25.0"
+                required />
+              <label id="age" for="age_2">21~30</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_3"
+                name="age"
+                value="35.0"
+                required />
+              <label id="age" for="age_3">31~40</label></span
+            ><span class="form-radio-item" style="clear: left">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_4"
+                name="age"
+                value="45.0"
+                required />
+              <label id="age" for="age_4">41~50</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_5"
+                name="age"
+                value="55.0"
+                required />
+              <label id="age" for="age_5">51~60</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_6"
+                name="age"
+                value="65.0"
+                required />
+              <label id="age" for="age_6">61~70</label></span
+            ><span class="form-radio-item" style="clear: left">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_7"
+                name="age"
+                value="75.0"
+                required />
+              <label id="age" for="age_7">71~80</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_8"
+                name="age"
+                value="85.0"
+                required />
+              <label id="age" for="age_8">81~90</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_10"
+                class="form-radio"
+                id="age_9"
+                name="age"
+                value="90.0"
+                required />
+              <label id="age" for="age_9">90以上</label></span
+            ><span class="form-radio-item">
+              <span class="dragger-item"></span>
+            </span>
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_radio" id="id_11">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_11"
+          aria-hidden="false">
+          是否已婚：<span style="color: red">*</span></label
+        >
+        <div id="cid_11" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_11"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_11"
+                class="form-radio"
+                id="marrige_1"
+                name="ever_married"
+                value="Yes"
+                required />
+              <label id="marrige" for="marrige_1">是</label>
+            </span>
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_11"
+                class="form-radio"
+                id="marrige_2"
+                name="ever_married"
+                value="No"
+                required />
+              <label id="marrige" for="marrige_2">否</label>
+            </span>
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_radio" id="id_12">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_12"
+          aria-hidden="false">
+          居住地區：<span style="color: red">*</span></label
+        >
+        <div id="cid_12" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_12"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_12"
+                class="form-radio"
+                id="area_1"
+                name="Residence_type"
+                value="Urban"
+                required />
+              <label id="area" for="area_1">都市</label></span
+            >
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_12"
+                class="form-radio"
+                id="area_2"
+                name="Residence_type"
+                value="Rural"
+                required />
+              <label id="area" for="area_2">鄉下</label></span
+            >
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_radio" id="id_13">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_13"
+          aria-hidden="false">
+          BMI：<span style="color: red">*</span></label
+        >
+        <div id="cid_13" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_13"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_13"
+                class="form-radio"
+                id="bmi_1"
+                name="bmi"
+                value="underweight"
+                required />
+              <label id="bmi" for="bmi_1">過輕</label></span
+            >
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_13"
+                class="form-radio"
+                id="bmi_2"
+                name="bmi"
+                value="moderate"
+                required />
+              <label id="bmi" for="bmi_2">適中</label></span
+            >
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_13"
+                class="form-radio"
+                id="bmi_3"
+                name="bmi"
+                value="overweight"
+                required />
+              <label id="bmi" for="bmi_3">過重</label></span
+            >
+            <span class="form-radio-item" style="clear: left"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_13"
+                class="form-radio"
+                id="bmi_4"
+                name="bmi"
+                value="obesity"
+                required />
+              <label id="bmi" for="bmi_4">肥胖</label></span
+            >
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_radio" id="id_14">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_14"
+          aria-hidden="false">
+          有無吸菸：<span style="color: red">*</span></label
+        >
+        <div id="cid_14" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_14"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_14"
+                class="form-radio"
+                id="smoke_1"
+                name="smoking_status"
+                value="formerly smoked"
+                required />
+              <label id="smoking_status" for="smoke_1"
+                >有吸菸過 但已無吸菸</label
+              ></span
+            >
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_14"
+                class="form-radio"
+                id="smoke_2"
+                name="smoking_status"
+                value="smokes"
+                required />
+              <label id="smoking_status" for="smoke_2">有</label></span
+            >
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_14"
+                class="form-radio"
+                id="smoke_3"
+                name="smoking_status"
+                value="never smoked"
+                required />
+              <label id="smoking_status" for="smoke_3">無</label></span
+            >
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_radio" id="id_15">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_15"
+          aria-hidden="false">
+          有無中風：<span style="color: red">*</span></label
+        >
+        <div id="cid_15" class="form-input-wide" data-layout="full">
+          <div
+            class="form-multiple-column"
+            data-columncount="3"
+            role="group"
+            aria-labelledby="label_15"
+            data-component="radio">
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_15"
+                class="form-radio"
+                id="stroke_1"
+                name="stroke"
+                value="1"
+                required />
+              <label id="stroke" for="stroke_1">有</label></span
+            >
+            <span class="form-radio-item"
+              ><span class="dragger-item"></span>
+              <input
+                type="radio"
+                aria-describedby="label_15"
+                class="form-radio"
+                id="stroke_2"
+                name="stroke"
+                value="0"
+                required />
+              <label id="stroke" for="stroke_2">無</label></span
+            >
+          </div>
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_email" id="id_6">
+        <label
+          class="form-label form-label-top form-label-auto"
+          id="label_6"
+          for="input_6"
+          aria-hidden="false">
+          E-mail
+        </label>
+        <div id="cid_6" class="form-input-wide" data-layout="half">
+          <span class="form-sub-label-container" style="vertical-align: top">
+            <input
+              type="email"
+              id="input_6"
+              name="q6_email6"
+              class="form-textbox validate[Email]"
+              data-defaultvalue=""
+              style="width: 310px"
+              size="310"
+              placeholder="ex: myname@example.com"
+              data-component="email"
+              aria-labelledby="label_6 sublabel_input_6"
+              value="" />
+            <label
+              class="form-sub-label"
+              for="input_6"
+              id="sublabel_input_6"
+              style="min-height: 13px"
+              >example@example.com</label
+            ></span
+          >
+        </div>
+      </li>
+
+      <li class="form-line" data-type="control_button" id="id_9">
+        <div id="cid_9" class="form-input-wide" data-layout="full">
+          <div
+            data-align="center"
+            class="form-buttons-wrapper form-buttons-center jsTest-button-wrapperField">
+            <button
+              id="input_9"
+              type="submit"
+              class="form-submit-button form-submit-button-pdf-200 submit-button jf-form-buttons jsTest-submitField btn bg-gradient-success mt-3"
+              data-component="button"
+              data-content="">
+              提交
+            </button>
+          </div>
+        </div>
+      </li>
+
+      <li style="display: none">
+        Should be Empty:
+        <input type="text" name="website" value="" type="hidden" />
+      </li>
+    </ul>
+  </div>
+  <script>
+    JotForm.showJotFormPowered = "new_footer";
+  </script>
+  <script>
+    JotForm.poweredByText = "Powered by Jotform";
+  </script>
+  <input
+    type="hidden"
+    class="simple_spc"
+    id="simple_spc"
+    name="simple_spc"
+    value="240004617398455" />
+  <script type="text/javascript">
+    var all_spc = document.querySelectorAll(
+      "form[id='240004617398455'] .si" + "mple" + "_spc"
+    );
+    for (var i = 0; i < all_spc.length; i++) {
+      all_spc[i].value = "240004617398455-240004617398455";
+    }
+  </script>
+</form>
+
+{% endblock form %}

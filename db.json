@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "id": "90815ae3-f04a-4e96-9a2c-869ece5bb841",
+      "gender": "Male",
+      "age": "25.0",
+      "ever_married": "Yes",
+      "Residence_type": "Rural",
+      "bmi": "moderate",
+      "smoking_status": "formerly smoked",
+      "stroke": "0",
+      "email": "example@example.com"
+    }
+  ]
+}

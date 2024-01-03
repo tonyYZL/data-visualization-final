@@ -1,0 +1,3567 @@
+gender,age,hypertension,heart_disease,ever_married,Residence_type,bmi,smoking_status,stroke
+Male,67.0,0,1,Yes,Urban,obesity,formerly smoked,1
+Female,61.0,0,0,Yes,Rural,obesity,never smoked,1
+Male,80.0,0,1,Yes,Rural,obesity,never smoked,1
+Female,49.0,0,0,Yes,Urban,obesity,smokes,1
+Female,79.0,1,0,Yes,Rural,overweight,never smoked,1
+Male,81.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,74.0,1,1,Yes,Rural,obesity,never smoked,1
+Female,69.0,0,0,No,Urban,moderate,never smoked,1
+Female,81.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,61.0,0,1,Yes,Rural,obesity,smokes,1
+Female,54.0,0,0,Yes,Urban,obesity,smokes,1
+Female,79.0,0,1,Yes,Urban,obesity,never smoked,1
+Female,50.0,1,0,Yes,Rural,obesity,never smoked,1
+Male,64.0,0,1,Yes,Urban,obesity,smokes,1
+Male,75.0,1,0,Yes,Urban,overweight,smokes,1
+Female,60.0,0,0,No,Urban,obesity,never smoked,1
+Female,71.0,0,0,Yes,Rural,moderate,smokes,1
+Female,52.0,1,0,Yes,Urban,obesity,never smoked,1
+Female,79.0,0,0,Yes,Urban,overweight,never smoked,1
+Male,71.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,80.0,0,0,Yes,Rural,moderate,never smoked,1
+Female,65.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,69.0,0,1,Yes,Urban,obesity,smokes,1
+Male,59.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,57.0,1,0,Yes,Urban,obesity,smokes,1
+Female,82.0,1,0,Yes,Urban,moderate,never smoked,1
+Male,80.0,0,1,Yes,Urban,obesity,formerly smoked,1
+Male,48.0,0,0,No,Urban,obesity,never smoked,1
+Female,82.0,1,1,No,Rural,overweight,formerly smoked,1
+Male,74.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,72.0,1,0,Yes,Rural,moderate,formerly smoked,1
+Female,49.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,78.0,0,0,Yes,Rural,moderate,formerly smoked,1
+Male,54.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,82.0,0,1,Yes,Urban,overweight,smokes,1
+Female,63.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,60.0,1,0,Yes,Urban,moderate,smokes,1
+Male,76.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,58.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,81.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,39.0,1,0,Yes,Rural,obesity,smokes,1
+Male,78.0,1,0,Yes,Urban,obesity,formerly smoked,1
+Female,79.0,0,1,Yes,Rural,obesity,never smoked,1
+Female,77.0,1,0,Yes,Urban,obesity,never smoked,1
+Female,63.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,63.0,0,1,Yes,Rural,obesity,formerly smoked,1
+Female,82.0,0,0,Yes,Rural,obesity,never smoked,1
+Male,78.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,73.0,1,0,Yes,Urban,obesity,never smoked,1
+Female,54.0,1,0,Yes,Urban,obesity,never smoked,1
+Female,56.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,80.0,1,0,Yes,Rural,moderate,never smoked,1
+Female,67.0,1,0,Yes,Rural,overweight,smokes,1
+Female,45.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,78.0,1,0,No,Urban,overweight,never smoked,1
+Female,70.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,59.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,80.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,76.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,67.0,1,0,Yes,Rural,obesity,formerly smoked,1
+Female,66.0,1,0,Yes,Rural,obesity,formerly smoked,1
+Male,63.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,52.0,0,0,Yes,Rural,overweight,never smoked,1
+Female,80.0,0,1,Yes,Rural,moderate,formerly smoked,1
+Male,80.0,1,0,Yes,Urban,obesity,never smoked,1
+Female,79.0,0,0,Yes,Urban,overweight,formerly smoked,1
+Female,51.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,79.0,0,0,No,Rural,moderate,never smoked,1
+Female,68.0,1,0,No,Urban,obesity,never smoked,1
+Male,54.0,0,0,Yes,Rural,obesity,smokes,1
+Male,61.0,0,1,Yes,Rural,obesity,smokes,1
+Female,70.0,0,1,Yes,Rural,obesity,formerly smoked,1
+Male,47.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,79.0,0,1,Yes,Urban,obesity,never smoked,1
+Male,81.0,0,0,Yes,Urban,overweight,never smoked,1
+Female,57.0,0,0,No,Urban,obesity,never smoked,1
+Male,45.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,78.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,70.0,0,0,Yes,Rural,overweight,formerly smoked,1
+Male,58.0,0,1,Yes,Rural,obesity,smokes,1
+Male,57.0,1,0,Yes,Urban,obesity,formerly smoked,1
+Female,69.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,77.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,74.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,58.0,0,0,Yes,Urban,obesity,smokes,1
+Female,50.0,1,0,Yes,Rural,obesity,formerly smoked,1
+Female,54.0,0,0,Yes,Rural,obesity,smokes,1
+Female,79.0,0,0,Yes,Rural,overweight,never smoked,1
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,79.0,0,1,Yes,Rural,moderate,formerly smoked,1
+Male,80.0,0,1,Yes,Urban,overweight,smokes,1
+Female,76.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,45.0,0,0,Yes,Rural,obesity,never smoked,1
+Male,71.0,1,1,No,Rural,obesity,never smoked,1
+Male,61.0,1,0,Yes,Rural,obesity,smokes,1
+Male,74.0,0,0,Yes,Urban,obesity,smokes,1
+Female,38.0,0,0,No,Urban,overweight,formerly smoked,1
+Female,77.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,58.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,80.0,0,0,Yes,Rural,obesity,smokes,1
+Male,56.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,72.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,78.0,1,0,Yes,Urban,obesity,formerly smoked,1
+Male,82.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,73.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,78.0,1,0,No,Urban,moderate,never smoked,1
+Male,69.0,1,0,No,Rural,obesity,never smoked,1
+Female,38.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,68.0,1,0,Yes,Rural,overweight,never smoked,1
+Female,71.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,76.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,76.0,1,0,Yes,Rural,obesity,formerly smoked,1
+Male,82.0,0,1,Yes,Rural,overweight,never smoked,1
+Female,59.0,0,0,Yes,Rural,moderate,smokes,1
+Female,74.0,1,0,Yes,Urban,moderate,never smoked,1
+Female,69.0,1,1,No,Urban,obesity,never smoked,1
+Female,72.0,1,0,Yes,Urban,obesity,never smoked,1
+Male,66.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,65.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,78.0,0,0,Yes,Urban,overweight,never smoked,1
+Female,57.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,70.0,0,1,Yes,Rural,overweight,never smoked,1
+Male,68.0,0,1,Yes,Urban,obesity,formerly smoked,1
+Female,80.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,68.0,0,0,Yes,Urban,obesity,smokes,1
+Female,55.0,0,0,Yes,Rural,overweight,never smoked,1
+Female,77.0,0,1,Yes,Rural,obesity,never smoked,1
+Female,50.0,0,0,Yes,Rural,obesity,smokes,1
+Female,57.0,0,0,Yes,Urban,obesity,smokes,1
+Female,71.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,81.0,1,0,Yes,Rural,overweight,never smoked,1
+Female,76.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,71.0,0,1,Yes,Urban,obesity,smokes,1
+Female,78.0,1,0,No,Urban,obesity,never smoked,1
+Female,70.0,1,0,Yes,Urban,obesity,formerly smoked,1
+Male,78.0,0,0,Yes,Urban,moderate,formerly smoked,1
+Male,79.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,79.0,1,0,No,Urban,moderate,formerly smoked,1
+Male,81.0,0,0,Yes,Rural,obesity,never smoked,1
+Male,64.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,79.0,1,1,No,Rural,obesity,never smoked,1
+Female,60.0,0,0,Yes,Urban,overweight,smokes,1
+Female,80.0,1,0,Yes,Rural,obesity,formerly smoked,1
+Female,78.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,72.0,1,0,Yes,Rural,obesity,never smoked,1
+Female,80.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,78.0,1,0,Yes,Rural,overweight,formerly smoked,1
+Female,46.0,0,0,Yes,Urban,obesity,never smoked,1
+Male,59.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,32.0,0,0,Yes,Rural,obesity,smokes,1
+Male,61.0,1,1,Yes,Urban,obesity,smokes,1
+Male,63.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,63.0,0,1,Yes,Urban,obesity,formerly smoked,1
+Female,82.0,1,1,Yes,Urban,obesity,formerly smoked,1
+Male,82.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,65.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,51.0,1,0,Yes,Urban,obesity,formerly smoked,1
+Male,59.0,0,0,Yes,Rural,obesity,smokes,1
+Male,68.0,1,1,Yes,Rural,obesity,smokes,1
+Female,72.0,0,0,Yes,Rural,overweight,smokes,1
+Male,59.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Male,70.0,1,0,Yes,Rural,obesity,formerly smoked,1
+Male,79.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,74.0,0,0,Yes,Urban,overweight,never smoked,1
+Male,80.0,1,1,Yes,Urban,obesity,formerly smoked,1
+Female,77.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,78.0,0,0,Yes,Rural,obesity,never smoked,1
+Male,54.0,0,0,Yes,Rural,obesity,smokes,1
+Female,78.0,0,0,Yes,Urban,obesity,formerly smoked,1
+Female,81.0,0,0,Yes,Rural,moderate,never smoked,1
+Male,78.0,0,0,No,Urban,overweight,never smoked,1
+Female,39.0,0,0,Yes,Urban,overweight,never smoked,1
+Female,51.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,63.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,48.0,0,0,Yes,Urban,moderate,never smoked,1
+Female,81.0,0,0,Yes,Urban,moderate,never smoked,1
+Female,79.0,0,1,No,Urban,obesity,smokes,1
+Male,78.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,55.0,1,1,Yes,Urban,obesity,smokes,1
+Female,76.0,1,1,Yes,Urban,obesity,smokes,1
+Male,73.0,0,1,Yes,Rural,obesity,never smoked,1
+Male,81.0,1,1,Yes,Urban,obesity,smokes,1
+Male,79.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,63.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,81.0,0,0,No,Urban,overweight,smokes,1
+Male,49.0,0,0,No,Rural,obesity,smokes,1
+Female,81.0,0,0,Yes,Rural,obesity,never smoked,1
+Male,74.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,39.0,0,0,Yes,Urban,obesity,smokes,1
+Female,80.0,1,0,No,Urban,obesity,never smoked,1
+Female,81.0,0,0,Yes,Rural,underweight,never smoked,1
+Female,79.0,0,0,Yes,Urban,moderate,smokes,1
+Female,73.0,0,0,Yes,Urban,obesity,never smoked,1
+Female,77.0,1,0,Yes,Urban,obesity,formerly smoked,1
+Male,77.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Female,51.0,1,0,Yes,Urban,obesity,never smoked,1
+Male,60.0,0,1,Yes,Urban,obesity,smokes,1
+Male,66.0,0,0,Yes,Rural,moderate,formerly smoked,1
+Male,57.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,68.0,0,0,Yes,Rural,obesity,never smoked,1
+Female,68.0,1,1,Yes,Urban,obesity,formerly smoked,1
+Female,75.0,0,0,Yes,Rural,obesity,formerly smoked,1
+Male,58.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,70.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Urban,underweight,formerly smoked,0
+Female,75.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Rural,obesity,smokes,0
+Female,74.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,79.0,0,1,Yes,Urban,moderate,formerly smoked,0
+Female,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,37.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,35.0,0,0,No,Rural,obesity,never smoked,0
+Female,20.0,0,0,No,Urban,moderate,smokes,0
+Female,42.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,44.0,0,0,Yes,Urban,overweight,smokes,0
+Female,79.0,0,1,Yes,Urban,overweight,smokes,0
+Female,57.0,1,0,Yes,Rural,obesity,smokes,0
+Female,49.0,0,0,Yes,Rural,obesity,smokes,0
+Male,71.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,59.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,25.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,67.0,0,0,Yes,Rural,obesity,smokes,0
+Female,38.0,0,0,No,Rural,overweight,never smoked,0
+Female,54.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,70.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,58.0,1,0,No,Urban,obesity,smokes,0
+Female,32.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,23.0,0,0,No,Urban,obesity,never smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,smokes,0
+Male,67.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,smokes,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,58.0,1,0,Yes,Rural,overweight,smokes,0
+Male,69.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,78.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,66.0,0,0,Yes,Rural,obesity,smokes,0
+Male,27.0,0,0,Yes,Rural,overweight,smokes,0
+Male,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,30.0,0,0,Yes,Urban,obesity,smokes,0
+Male,46.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,smokes,0
+Female,78.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Male,61.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,37.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,29.0,0,0,No,Urban,obesity,never smoked,0
+Male,27.0,0,0,No,Urban,overweight,formerly smoked,0
+Male,76.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,57.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,21.0,0,0,No,Rural,moderate,smokes,0
+Female,18.0,0,0,No,Rural,obesity,smokes,0
+Female,78.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,78.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,33.0,0,0,Yes,Urban,overweight,smokes,0
+Female,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,82.0,0,1,No,Urban,overweight,never smoked,0
+Female,54.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,49.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,24.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,34.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,64.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,23.0,0,0,No,Urban,overweight,never smoked,0
+Male,68.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,25.0,0,0,No,Rural,obesity,never smoked,0
+Female,48.0,0,0,No,Urban,moderate,smokes,0
+Female,79.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,20.0,0,0,No,Rural,obesity,never smoked,0
+Female,60.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,32.0,0,0,Yes,Urban,overweight,smokes,0
+Female,66.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,43.0,0,0,Yes,Urban,moderate,smokes,0
+Female,36.0,0,0,No,Rural,moderate,never smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,29.0,0,0,Yes,Urban,obesity,smokes,0
+Female,76.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,39.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,76.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,72.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,57.0,0,0,No,Rural,moderate,never smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,44.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,18.0,0,0,No,Urban,overweight,never smoked,0
+Male,41.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,23.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,smokes,0
+Male,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,53.0,1,1,Yes,Rural,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,70.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,24.0,0,0,No,Urban,obesity,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,70.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,26.0,0,0,Yes,Rural,moderate,smokes,0
+Female,39.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,38.0,0,0,No,Urban,obesity,never smoked,0
+Female,20.0,0,0,No,Urban,obesity,never smoked,0
+Female,17.0,0,0,No,Urban,obesity,never smoked,0
+Male,60.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,75.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,smokes,0
+Male,58.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,13.0,0,0,No,Urban,moderate,never smoked,0
+Female,52.0,0,0,Yes,Urban,moderate,smokes,0
+Female,78.0,0,1,Yes,Urban,overweight,never smoked,0
+Female,21.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,22.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,64.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,64.0,0,0,No,Rural,obesity,smokes,0
+Male,12.0,0,0,No,Urban,overweight,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,smokes,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,22.0,0,0,No,Rural,overweight,never smoked,0
+Female,24.0,0,0,No,Urban,overweight,never smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,68.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,56.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,smokes,0
+Female,40.0,0,0,Yes,Rural,obesity,smokes,0
+Male,53.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,52.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,31.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,smokes,0
+Female,69.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,64.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,64.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,65.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,22.0,0,0,No,Urban,moderate,never smoked,0
+Female,26.0,0,0,No,Urban,obesity,never smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,72.0,0,1,Yes,Rural,obesity,smokes,0
+Male,13.0,0,0,No,Urban,underweight,never smoked,0
+Male,29.0,0,0,No,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,13.0,0,0,No,Urban,moderate,never smoked,0
+Male,75.0,0,1,No,Rural,obesity,formerly smoked,0
+Female,33.0,1,0,Yes,Urban,obesity,smokes,0
+Female,44.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,78.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,25.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,69.0,0,0,Yes,Rural,overweight,smokes,0
+Female,61.0,1,0,Yes,Rural,obesity,smokes,0
+Female,43.0,1,0,No,Rural,obesity,never smoked,0
+Female,38.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,26.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,18.0,0,0,No,Rural,moderate,never smoked,0
+Female,43.0,0,0,Yes,Rural,moderate,smokes,0
+Female,43.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,32.0,0,0,No,Urban,moderate,smokes,0
+Female,81.0,0,0,No,Rural,obesity,never smoked,0
+Female,66.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,54.0,1,0,Yes,Rural,obesity,smokes,0
+Female,48.0,0,0,Yes,Rural,obesity,smokes,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,20.0,0,0,No,Rural,moderate,never smoked,0
+Female,42.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,71.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,14.0,0,0,No,Rural,moderate,never smoked,0
+Female,66.0,0,0,No,Urban,moderate,smokes,0
+Female,56.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,60.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,76.0,0,0,Yes,Urban,overweight,smokes,0
+Male,52.0,1,0,Yes,Rural,obesity,smokes,0
+Female,42.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,46.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,smokes,0
+Male,31.0,0,0,Yes,Urban,obesity,smokes,0
+Male,22.0,0,0,No,Urban,moderate,smokes,0
+Male,41.0,0,0,No,Rural,obesity,smokes,0
+Female,28.0,0,0,Yes,Urban,obesity,smokes,0
+Female,44.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,68.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,67.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,40.0,0,0,Yes,Rural,obesity,smokes,0
+Male,70.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,23.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,72.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,23.0,0,0,No,Rural,obesity,never smoked,0
+Male,51.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,16.0,0,0,No,Rural,obesity,never smoked,0
+Female,30.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,29.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,Yes,Rural,moderate,smokes,0
+Male,40.0,0,0,No,Rural,obesity,never smoked,0
+Male,77.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,76.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,55.0,0,0,No,Rural,obesity,never smoked,0
+Male,36.0,0,0,No,Urban,overweight,never smoked,0
+Female,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,67.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,72.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,64.0,1,0,Yes,Rural,overweight,never smoked,0
+Male,25.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,32.0,0,0,No,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,52.0,1,0,Yes,Urban,overweight,formerly smoked,0
+Male,54.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,36.0,0,0,Yes,Urban,obesity,smokes,0
+Male,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,29.0,0,0,No,Urban,moderate,smokes,0
+Female,51.0,1,0,Yes,Urban,obesity,smokes,0
+Female,23.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,72.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,65.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,24.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,57.0,0,0,Yes,Urban,moderate,smokes,0
+Male,48.0,0,0,Yes,Urban,obesity,smokes,0
+Female,56.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,30.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,63.0,1,0,Yes,Urban,moderate,smokes,0
+Female,46.0,0,0,Yes,Rural,obesity,smokes,0
+Female,53.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,15.0,0,0,No,Rural,overweight,never smoked,0
+Female,59.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,24.0,0,0,No,Rural,moderate,never smoked,0
+Male,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,39.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,23.0,0,0,No,Urban,moderate,never smoked,0
+Male,31.0,0,0,Yes,Rural,obesity,smokes,0
+Male,44.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,40.0,0,0,Yes,Rural,obesity,smokes,0
+Male,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,82.0,0,0,No,Rural,obesity,smokes,0
+Female,52.0,0,0,No,Rural,obesity,never smoked,0
+Female,73.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,smokes,0
+Male,50.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,43.0,0,0,Yes,Urban,moderate,smokes,0
+Male,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,80.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,33.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,65.0,0,1,Yes,Urban,obesity,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,52.0,0,1,No,Rural,obesity,smokes,0
+Female,66.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,20.0,0,0,No,Rural,moderate,never smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,smokes,0
+Female,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,58.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,66.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,48.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,27.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,15.0,0,0,No,Rural,moderate,never smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,80.0,0,1,Yes,Urban,moderate,never smoked,0
+Female,43.0,0,0,Yes,Urban,underweight,never smoked,0
+Female,70.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,58.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,49.0,0,0,Yes,Rural,obesity,smokes,0
+Male,65.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,54.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,74.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,79.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,71.0,1,0,Yes,Urban,overweight,formerly smoked,0
+Female,28.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,36.0,0,0,No,Rural,obesity,never smoked,0
+Male,78.0,0,0,Yes,Urban,obesity,smokes,0
+Female,80.0,0,0,No,Urban,moderate,never smoked,0
+Female,38.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,56.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,75.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,76.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,48.0,1,0,No,Rural,obesity,formerly smoked,0
+Male,82.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,61.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,17.0,0,0,No,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,12.0,0,0,No,Urban,moderate,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,smokes,0
+Female,27.0,0,0,No,Rural,overweight,never smoked,0
+Male,31.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,16.0,0,0,No,Rural,moderate,never smoked,0
+Male,20.0,0,0,No,Urban,moderate,never smoked,0
+Male,32.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,35.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,52.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,55.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,18.0,0,0,No,Urban,moderate,never smoked,0
+Female,13.0,0,0,No,Urban,obesity,never smoked,0
+Female,45.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,29.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,30.0,0,0,Yes,Rural,moderate,smokes,0
+Female,44.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,79.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,45.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,66.0,0,0,Yes,Urban,underweight,smokes,0
+Female,49.0,0,0,Yes,Urban,obesity,smokes,0
+Female,66.0,0,0,Yes,Rural,obesity,smokes,0
+Male,47.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,23.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,37.0,0,0,No,Rural,moderate,formerly smoked,0
+Male,78.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,70.0,1,0,Yes,Rural,overweight,formerly smoked,0
+Female,28.0,1,0,No,Rural,obesity,never smoked,0
+Male,29.0,0,0,No,Urban,obesity,smokes,0
+Female,22.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,56.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,81.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,50.0,0,0,Yes,Rural,overweight,smokes,0
+Male,70.0,0,0,Yes,Urban,obesity,smokes,0
+Female,30.0,0,0,No,Urban,obesity,smokes,0
+Female,51.0,0,0,Yes,Rural,obesity,smokes,0
+Male,24.0,0,0,No,Urban,obesity,never smoked,0
+Male,17.0,0,0,No,Rural,moderate,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,49.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,30.0,0,0,Yes,Rural,obesity,smokes,0
+Male,73.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,20.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,42.0,0,0,Yes,Urban,obesity,smokes,0
+Female,55.0,0,0,Yes,Urban,obesity,smokes,0
+Female,27.0,0,0,No,Rural,overweight,never smoked,0
+Male,71.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,23.0,0,0,No,Rural,overweight,smokes,0
+Female,71.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,31.0,0,0,Yes,Urban,obesity,smokes,0
+Female,64.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,46.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,58.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,19.0,0,0,No,Rural,obesity,never smoked,0
+Male,47.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,54.0,1,0,No,Urban,obesity,formerly smoked,0
+Female,37.0,0,0,No,Rural,obesity,never smoked,0
+Female,17.0,0,0,No,Rural,overweight,smokes,0
+Female,20.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,smokes,0
+Female,56.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,31.0,0,0,No,Rural,obesity,never smoked,0
+Male,33.0,0,0,Yes,Rural,obesity,smokes,0
+Male,42.0,0,0,Yes,Rural,overweight,smokes,0
+Male,20.0,0,0,No,Rural,obesity,never smoked,0
+Male,22.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,30.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,19.0,0,0,No,Rural,overweight,never smoked,0
+Female,51.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,38.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,64.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,59.0,1,0,Yes,Rural,overweight,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,24.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,17.0,0,0,No,Urban,obesity,never smoked,0
+Female,29.0,0,0,No,Urban,moderate,never smoked,0
+Female,42.0,0,0,Yes,Rural,overweight,smokes,0
+Female,31.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,29.0,0,0,No,Urban,moderate,never smoked,0
+Female,23.0,0,0,No,Urban,obesity,never smoked,0
+Female,25.0,0,0,No,Urban,obesity,smokes,0
+Female,66.0,0,0,Yes,Urban,obesity,smokes,0
+Female,77.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,79.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,39.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,51.0,0,0,No,Rural,moderate,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,55.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,41.0,0,0,No,Urban,obesity,never smoked,0
+Male,38.0,0,0,Yes,Urban,obesity,smokes,0
+Male,40.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,20.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,70.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,61.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,70.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,0,0,Yes,Rural,obesity,smokes,0
+Female,36.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,61.0,1,1,Yes,Rural,obesity,never smoked,0
+Male,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Rural,obesity,smokes,0
+Female,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,51.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,39.0,0,0,No,Urban,moderate,never smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,19.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,53.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,23.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,19.0,0,0,No,Urban,overweight,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,71.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,44.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,70.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,49.0,0,0,Yes,Urban,obesity,smokes,0
+Female,17.0,0,0,No,Rural,overweight,never smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,46.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,32.0,0,0,Yes,Rural,obesity,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,19.0,0,0,No,Rural,obesity,smokes,0
+Male,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,46.0,0,0,Yes,Rural,obesity,smokes,0
+Male,71.0,0,0,No,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,overweight,smokes,0
+Male,41.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,smokes,0
+Female,20.0,0,0,No,Urban,obesity,never smoked,0
+Female,77.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,62.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,80.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,45.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,26.0,0,0,No,Urban,obesity,never smoked,0
+Female,71.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,74.0,1,0,Yes,Rural,obesity,smokes,0
+Male,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,37.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,19.0,0,0,No,Urban,overweight,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,59.0,1,0,Yes,Rural,moderate,never smoked,0
+Male,62.0,0,1,Yes,Urban,overweight,formerly smoked,0
+Male,80.0,1,1,Yes,Urban,obesity,smokes,0
+Female,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,27.0,0,0,No,Rural,moderate,never smoked,0
+Male,81.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,27.0,0,0,Yes,Rural,obesity,smokes,0
+Female,51.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,71.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,48.0,0,0,Yes,Urban,obesity,smokes,0
+Female,35.0,0,0,No,Urban,obesity,smokes,0
+Female,25.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,68.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,39.0,0,0,No,Urban,obesity,never smoked,0
+Female,32.0,0,0,No,Rural,obesity,smokes,0
+Female,69.0,0,0,Yes,Rural,moderate,smokes,0
+Female,29.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,58.0,0,0,Yes,Urban,obesity,smokes,0
+Female,32.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,63.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,21.0,0,0,No,Urban,obesity,smokes,0
+Male,71.0,0,1,Yes,Rural,obesity,smokes,0
+Female,74.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,23.0,1,0,No,Urban,obesity,smokes,0
+Male,75.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,80.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,24.0,0,0,No,Rural,obesity,never smoked,0
+Female,74.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,23.0,0,0,No,Urban,obesity,never smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,60.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,79.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,75.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,33.0,0,0,Yes,Urban,moderate,smokes,0
+Female,51.0,0,0,Yes,Urban,obesity,smokes,0
+Female,47.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,20.0,0,0,No,Urban,moderate,smokes,0
+Male,50.0,0,0,No,Rural,overweight,never smoked,0
+Male,31.0,0,0,Yes,Urban,obesity,smokes,0
+Female,15.0,0,0,No,Urban,obesity,never smoked,0
+Male,30.0,0,0,Yes,Urban,obesity,smokes,0
+Male,17.0,0,0,No,Urban,moderate,never smoked,0
+Male,24.0,0,0,No,Urban,obesity,never smoked,0
+Female,30.0,0,0,No,Rural,underweight,never smoked,0
+Male,66.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,40.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,27.0,0,0,No,Urban,obesity,never smoked,0
+Male,21.0,0,0,No,Rural,obesity,never smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,smokes,0
+Female,19.0,0,0,No,Rural,moderate,never smoked,0
+Male,75.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Female,71.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,16.0,0,0,No,Urban,moderate,never smoked,0
+Female,37.0,0,0,Yes,Rural,obesity,smokes,0
+Male,59.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,34.0,0,0,No,Rural,moderate,smokes,0
+Female,46.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,smokes,0
+Male,19.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,21.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,37.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,61.0,1,1,No,Rural,obesity,formerly smoked,0
+Male,82.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,50.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,70.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,35.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,80.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,26.0,0,0,No,Urban,obesity,smokes,0
+Male,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,71.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,49.0,0,0,No,Urban,obesity,smokes,0
+Female,51.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,79.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,66.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,22.0,0,0,No,Rural,obesity,never smoked,0
+Female,60.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,55.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,63.0,0,0,Yes,Rural,overweight,smokes,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,82.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,56.0,0,0,Yes,Rural,overweight,smokes,0
+Male,41.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,34.0,0,0,No,Urban,obesity,smokes,0
+Male,75.0,0,0,Yes,Urban,obesity,smokes,0
+Male,57.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,72.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,21.0,0,0,No,Rural,obesity,never smoked,0
+Female,51.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,30.0,0,0,Yes,Rural,obesity,smokes,0
+Female,82.0,0,0,No,Urban,overweight,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,79.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Female,31.0,0,0,No,Urban,obesity,never smoked,0
+Male,61.0,0,0,Yes,Urban,overweight,smokes,0
+Male,27.0,0,0,No,Rural,overweight,never smoked,0
+Female,61.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,53.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,76.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,51.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,19.0,0,0,No,Rural,moderate,never smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,13.0,0,0,No,Rural,overweight,smokes,0
+Male,67.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,30.0,0,0,No,Rural,obesity,never smoked,0
+Male,67.0,1,1,Yes,Rural,obesity,never smoked,0
+Female,81.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,38.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,47.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,27.0,0,0,No,Rural,obesity,never smoked,0
+Female,53.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,27.0,0,0,No,Urban,obesity,never smoked,0
+Female,36.0,0,0,Yes,Rural,obesity,smokes,0
+Female,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,73.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,19.0,0,0,No,Rural,obesity,never smoked,0
+Female,30.0,0,0,No,Rural,overweight,formerly smoked,0
+Male,30.0,0,0,No,Urban,moderate,never smoked,0
+Male,70.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,23.0,0,0,No,Rural,overweight,smokes,0
+Male,18.0,0,0,No,Rural,moderate,never smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,67.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,23.0,0,0,No,Rural,obesity,smokes,0
+Male,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,71.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,22.0,0,0,No,Urban,moderate,never smoked,0
+Female,27.0,0,0,No,Urban,obesity,never smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,18.0,0,0,No,Rural,moderate,never smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,smokes,0
+Female,42.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,56.0,1,0,Yes,Urban,obesity,smokes,0
+Female,69.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,smokes,0
+Female,36.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,69.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,19.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,59.0,1,0,No,Rural,moderate,never smoked,0
+Female,28.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,80.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,smokes,0
+Female,38.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,67.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,40.0,0,0,Yes,Rural,overweight,smokes,0
+Female,55.0,0,0,No,Rural,moderate,never smoked,0
+Male,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,52.0,1,0,No,Urban,overweight,smokes,0
+Male,46.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,21.0,0,0,No,Urban,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,moderate,smokes,0
+Female,71.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,46.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,79.0,0,0,Yes,Urban,obesity,smokes,0
+Female,71.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,49.0,0,0,Yes,Urban,underweight,formerly smoked,0
+Female,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,18.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,80.0,0,0,Yes,Rural,overweight,smokes,0
+Female,34.0,0,0,No,Rural,obesity,never smoked,0
+Female,40.0,0,0,No,Rural,obesity,smokes,0
+Female,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,35.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,29.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,23.0,0,0,No,Urban,moderate,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,smokes,0
+Female,62.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,32.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,79.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,62.0,1,0,Yes,Rural,overweight,never smoked,0
+Female,31.0,0,0,No,Urban,obesity,never smoked,0
+Male,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,20.0,0,0,No,Rural,moderate,never smoked,0
+Female,55.0,0,1,No,Rural,moderate,smokes,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Female,33.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,79.0,0,1,Yes,Urban,moderate,formerly smoked,0
+Male,64.0,1,0,Yes,Rural,obesity,smokes,0
+Male,46.0,0,0,Yes,Urban,obesity,smokes,0
+Male,80.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,21.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,33.0,0,0,No,Urban,moderate,never smoked,0
+Female,32.0,0,0,Yes,Rural,overweight,smokes,0
+Female,49.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,79.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Urban,obesity,smokes,0
+Male,68.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,32.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,20.0,0,0,No,Rural,moderate,never smoked,0
+Male,20.0,0,0,No,Urban,moderate,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,smokes,0
+Male,46.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,79.0,0,0,No,Rural,overweight,never smoked,0
+Male,43.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,56.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,32.0,0,0,No,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,smokes,0
+Male,53.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,67.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,33.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,26.0,0,0,No,Rural,obesity,smokes,0
+Female,69.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,73.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,15.0,0,0,No,Rural,obesity,never smoked,0
+Female,80.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,smokes,0
+Female,71.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,22.0,0,0,No,Rural,moderate,never smoked,0
+Male,63.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,39.0,0,0,Yes,Urban,obesity,smokes,0
+Female,43.0,0,0,No,Rural,overweight,smokes,0
+Male,67.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,48.0,0,0,Yes,Urban,overweight,smokes,0
+Female,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,37.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,20.0,0,0,No,Urban,obesity,never smoked,0
+Female,60.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,34.0,0,0,No,Urban,obesity,never smoked,0
+Female,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,66.0,0,0,No,Urban,obesity,never smoked,0
+Female,80.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,63.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Male,31.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,43.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,80.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,obesity,smokes,0
+Female,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,46.0,1,0,Yes,Rural,obesity,smokes,0
+Male,73.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,44.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,79.0,0,0,No,Rural,obesity,never smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,54.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,25.0,0,0,No,Rural,overweight,never smoked,0
+Male,49.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,80.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,22.0,0,0,No,Urban,overweight,never smoked,0
+Female,61.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,50.0,0,0,Yes,Rural,obesity,smokes,0
+Male,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,55.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,21.0,0,0,No,Urban,obesity,never smoked,0
+Male,50.0,0,1,No,Urban,obesity,never smoked,0
+Male,73.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,58.0,0,1,Yes,Rural,overweight,smokes,0
+Male,30.0,0,0,No,Rural,overweight,formerly smoked,0
+Female,55.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,77.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,29.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,29.0,0,0,No,Urban,obesity,never smoked,0
+Female,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,35.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,56.0,0,1,Yes,Rural,overweight,formerly smoked,0
+Female,26.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,75.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,44.0,0,0,No,Rural,obesity,never smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Male,46.0,0,1,Yes,Urban,overweight,never smoked,0
+Female,47.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,50.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,49.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,76.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,47.0,0,0,Yes,Rural,obesity,smokes,0
+Female,47.0,0,0,Yes,Urban,overweight,smokes,0
+Male,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,71.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,65.0,0,0,No,Rural,obesity,never smoked,0
+Female,40.0,0,0,No,Urban,obesity,smokes,0
+Female,82.0,1,0,Yes,Urban,moderate,formerly smoked,0
+Female,64.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,72.0,0,0,Yes,Rural,obesity,smokes,0
+Female,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,40.0,0,0,No,Urban,obesity,smokes,0
+Female,30.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,68.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,72.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,62.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,13.0,0,0,No,Rural,underweight,never smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,40.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,61.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,17.0,0,0,No,Urban,moderate,never smoked,0
+Female,64.0,0,0,No,Rural,underweight,never smoked,0
+Female,32.0,0,0,No,Rural,obesity,smokes,0
+Female,42.0,0,0,Yes,Urban,obesity,smokes,0
+Male,39.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,78.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,68.0,0,0,Yes,Urban,overweight,smokes,0
+Female,24.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,59.0,1,1,Yes,Rural,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,smokes,0
+Male,12.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,21.0,0,0,No,Urban,obesity,smokes,0
+Female,55.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,14.0,0,0,No,Urban,obesity,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,75.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,overweight,smokes,0
+Female,45.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,77.0,0,0,Yes,Rural,obesity,smokes,0
+Male,76.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,62.0,0,0,Yes,Urban,obesity,smokes,0
+Male,82.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,37.0,0,0,Yes,Urban,obesity,smokes,0
+Female,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,smokes,0
+Male,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,11.0,0,0,No,Urban,moderate,never smoked,0
+Male,56.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,25.0,0,0,Yes,Rural,obesity,smokes,0
+Female,57.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,76.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,54.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,67.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,44.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,smokes,0
+Female,40.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,81.0,0,0,Yes,Urban,obesity,smokes,0
+Female,24.0,0,0,No,Rural,underweight,never smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,78.0,0,0,Yes,Rural,underweight,never smoked,0
+Female,22.0,0,0,No,Rural,moderate,never smoked,0
+Female,79.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,74.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,62.0,0,0,Yes,Rural,obesity,smokes,0
+Male,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,27.0,0,0,No,Rural,obesity,smokes,0
+Female,50.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,24.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,21.0,0,0,No,Rural,overweight,never smoked,0
+Female,22.0,0,0,No,Urban,moderate,never smoked,0
+Male,13.0,0,0,No,Urban,obesity,never smoked,0
+Male,51.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,48.0,0,0,Yes,Rural,obesity,smokes,0
+Male,68.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,49.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,80.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,31.0,0,0,Yes,Rural,overweight,smokes,0
+Female,25.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,39.0,0,0,No,Rural,obesity,never smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,71.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,71.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,53.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,60.0,1,1,Yes,Urban,obesity,never smoked,0
+Male,68.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,23.0,0,0,No,Rural,moderate,never smoked,0
+Male,24.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,64.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,smokes,0
+Female,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,27.0,0,0,No,Rural,moderate,never smoked,0
+Female,61.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Male,46.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,30.0,0,0,No,Urban,overweight,smokes,0
+Female,81.0,0,1,Yes,Rural,obesity,smokes,0
+Female,12.0,0,0,No,Rural,overweight,smokes,0
+Male,18.0,0,0,No,Rural,obesity,smokes,0
+Female,35.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,82.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,53.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,75.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,32.0,0,0,No,Rural,moderate,smokes,0
+Female,27.0,0,0,No,Rural,moderate,never smoked,0
+Male,56.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,71.0,0,0,Yes,Urban,obesity,smokes,0
+Male,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,44.0,0,0,No,Urban,obesity,never smoked,0
+Male,62.0,0,0,Yes,Rural,obesity,smokes,0
+Female,42.0,0,1,Yes,Urban,obesity,smokes,0
+Female,25.0,0,0,Yes,Urban,obesity,smokes,0
+Female,49.0,0,0,Yes,Urban,overweight,smokes,0
+Female,77.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,overweight,smokes,0
+Female,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,30.0,0,0,Yes,Urban,obesity,smokes,0
+Female,47.0,0,0,Yes,Urban,overweight,smokes,0
+Male,25.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,61.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,55.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,23.0,0,0,No,Urban,obesity,smokes,0
+Male,71.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,42.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,51.0,0,0,Yes,Urban,obesity,smokes,0
+Male,66.0,0,0,Yes,Rural,obesity,smokes,0
+Female,22.0,1,0,No,Urban,obesity,never smoked,0
+Male,19.0,0,0,No,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,26.0,0,0,No,Rural,overweight,never smoked,0
+Male,62.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Female,81.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,25.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,44.0,0,0,No,Rural,moderate,smokes,0
+Female,65.0,0,0,Yes,Urban,obesity,smokes,0
+Female,24.0,0,0,No,Urban,moderate,smokes,0
+Female,65.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,33.0,0,0,No,Urban,overweight,never smoked,0
+Female,74.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,18.0,0,0,No,Rural,obesity,never smoked,0
+Female,77.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,48.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,52.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,23.0,0,0,No,Rural,moderate,never smoked,0
+Male,25.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,78.0,0,0,No,Rural,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,32.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,67.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,41.0,0,0,Yes,Urban,overweight,smokes,0
+Female,17.0,0,0,No,Rural,moderate,never smoked,0
+Female,25.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,57.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,31.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,61.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,40.0,0,0,No,Rural,moderate,smokes,0
+Female,45.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,51.0,0,0,No,Rural,obesity,smokes,0
+Male,59.0,0,0,Yes,Urban,overweight,smokes,0
+Male,15.0,0,0,No,Urban,moderate,never smoked,0
+Female,73.0,0,0,No,Urban,overweight,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,smokes,0
+Male,70.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,15.0,0,0,No,Rural,obesity,never smoked,0
+Male,51.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,34.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,33.0,0,0,Yes,Urban,underweight,smokes,0
+Female,53.0,1,0,Yes,Urban,obesity,smokes,0
+Male,69.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,81.0,0,0,Yes,Rural,underweight,formerly smoked,0
+Female,20.0,0,0,No,Urban,obesity,never smoked,0
+Male,77.0,0,0,Yes,Urban,overweight,smokes,0
+Female,38.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,23.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,67.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,smokes,0
+Female,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,21.0,0,0,No,Rural,obesity,never smoked,0
+Male,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,29.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,25.0,0,0,No,Urban,obesity,never smoked,0
+Female,48.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,21.0,0,0,No,Rural,overweight,never smoked,0
+Female,32.0,0,0,No,Urban,moderate,never smoked,0
+Female,57.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,64.0,0,0,Yes,Rural,obesity,smokes,0
+Male,44.0,0,0,Yes,Rural,obesity,smokes,0
+Female,60.0,0,1,Yes,Urban,obesity,smokes,0
+Female,56.0,0,0,Yes,Rural,obesity,smokes,0
+Male,53.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,42.0,0,0,No,Rural,obesity,smokes,0
+Female,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,68.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,36.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,smokes,0
+Female,28.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,40.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,65.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,58.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,44.0,0,0,Yes,Urban,obesity,smokes,0
+Female,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,79.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,62.0,1,0,No,Rural,obesity,formerly smoked,0
+Male,66.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,27.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,smokes,0
+Female,15.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,smokes,0
+Female,32.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,33.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,82.0,0,0,Yes,Urban,obesity,smokes,0
+Female,71.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,44.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,50.0,0,0,Yes,Rural,obesity,smokes,0
+Female,44.0,0,0,No,Urban,obesity,smokes,0
+Female,47.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,29.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,36.0,0,0,No,Rural,obesity,never smoked,0
+Female,19.0,0,0,No,Urban,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,45.0,0,0,Yes,Rural,overweight,smokes,0
+Female,52.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,19.0,0,0,No,Urban,obesity,never smoked,0
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,59.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,34.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,61.0,0,0,Yes,Urban,underweight,never smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,11.0,0,0,No,Rural,moderate,never smoked,0
+Male,36.0,0,0,Yes,Rural,overweight,smokes,0
+Female,60.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,69.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,1,0,Yes,Rural,obesity,smokes,0
+Female,22.0,0,0,No,Urban,obesity,smokes,0
+Male,63.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,smokes,0
+Male,58.0,0,0,No,Rural,moderate,formerly smoked,0
+Male,61.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,30.0,0,0,Yes,Urban,overweight,smokes,0
+Female,78.0,1,1,Yes,Urban,obesity,never smoked,0
+Female,68.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,38.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,51.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,37.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,16.0,0,0,No,Rural,moderate,never smoked,0
+Male,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,24.0,1,0,Yes,Rural,obesity,smokes,0
+Male,51.0,0,0,Yes,Urban,obesity,smokes,0
+Female,50.0,1,0,Yes,Urban,overweight,never smoked,0
+Female,27.0,0,0,Yes,Urban,obesity,smokes,0
+Female,73.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,76.0,1,1,Yes,Rural,obesity,smokes,0
+Male,66.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,53.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,smokes,0
+Female,45.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,56.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,62.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,16.0,0,0,No,Rural,obesity,never smoked,0
+Male,26.0,0,0,Yes,Rural,obesity,smokes,0
+Female,22.0,0,0,No,Urban,moderate,smokes,0
+Female,82.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,smokes,0
+Female,47.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,12.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,63.0,1,0,Yes,Rural,moderate,never smoked,0
+Female,78.0,1,0,Yes,Rural,obesity,smokes,0
+Male,76.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,32.0,0,0,No,Rural,obesity,smokes,0
+Female,81.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,78.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,75.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,34.0,0,0,No,Rural,obesity,never smoked,0
+Female,13.0,0,0,No,Urban,moderate,never smoked,0
+Male,54.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,24.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,76.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,57.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,26.0,0,0,No,Urban,moderate,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,25.0,0,0,No,Rural,obesity,smokes,0
+Male,60.0,0,0,No,Urban,obesity,never smoked,0
+Male,22.0,0,0,No,Rural,overweight,formerly smoked,0
+Male,35.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,48.0,1,0,No,Urban,obesity,never smoked,0
+Female,12.0,0,0,No,Urban,obesity,never smoked,0
+Female,22.0,0,0,No,Urban,moderate,smokes,0
+Male,13.0,0,0,No,Rural,moderate,never smoked,0
+Female,78.0,1,0,Yes,Rural,underweight,never smoked,0
+Male,61.0,0,0,Yes,Urban,moderate,smokes,0
+Male,43.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,60.0,1,0,Yes,Urban,overweight,smokes,0
+Female,51.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,21.0,0,0,No,Urban,overweight,never smoked,0
+Female,36.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,14.0,0,0,No,Rural,moderate,never smoked,0
+Female,60.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,61.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,56.0,0,0,No,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,smokes,0
+Male,14.0,0,0,No,Urban,moderate,formerly smoked,0
+Male,37.0,0,0,No,Urban,overweight,smokes,0
+Female,52.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,30.0,0,0,No,Urban,obesity,smokes,0
+Female,60.0,0,0,Yes,Urban,obesity,smokes,0
+Female,47.0,0,0,Yes,Rural,obesity,smokes,0
+Male,64.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,12.0,0,0,No,Rural,overweight,never smoked,0
+Male,77.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,78.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,18.0,0,0,No,Rural,moderate,never smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,smokes,0
+Female,68.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,smokes,0
+Female,47.0,0,0,Yes,Urban,obesity,smokes,0
+Female,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,53.0,1,1,Yes,Urban,overweight,smokes,0
+Female,56.0,0,0,Yes,Urban,obesity,smokes,0
+Female,29.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,10.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,53.0,0,0,Yes,Urban,obesity,smokes,0
+Male,56.0,1,0,Yes,Urban,moderate,smokes,0
+Female,56.0,0,0,Yes,Rural,obesity,smokes,0
+Female,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,80.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Female,47.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,63.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,68.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,76.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,smokes,0
+Female,44.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,47.0,0,0,Yes,Urban,obesity,smokes,0
+Male,25.0,0,0,No,Urban,moderate,smokes,0
+Female,31.0,0,0,No,Rural,moderate,never smoked,0
+Male,71.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,32.0,0,0,No,Rural,obesity,never smoked,0
+Male,72.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,44.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,25.0,0,0,No,Rural,obesity,smokes,0
+Male,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,27.0,0,0,No,Rural,moderate,never smoked,0
+Female,20.0,0,0,No,Urban,overweight,never smoked,0
+Male,21.0,0,0,No,Rural,moderate,never smoked,0
+Male,44.0,0,0,Yes,Urban,obesity,smokes,0
+Male,38.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,77.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,26.0,0,0,No,Rural,moderate,formerly smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,59.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,67.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,80.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,42.0,1,0,Yes,Urban,obesity,smokes,0
+Female,68.0,0,0,No,Urban,obesity,smokes,0
+Male,57.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,44.0,0,0,Yes,Rural,obesity,smokes,0
+Male,16.0,0,0,No,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,50.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,67.0,0,0,Yes,Urban,underweight,never smoked,0
+Female,36.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,52.0,0,0,Yes,Urban,moderate,smokes,0
+Female,28.0,0,0,No,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,81.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,31.0,0,0,No,Rural,obesity,never smoked,0
+Female,42.0,0,0,No,Urban,obesity,never smoked,0
+Male,34.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,70.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,33.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,smokes,0
+Female,25.0,0,0,No,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,14.0,0,0,No,Urban,overweight,never smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,72.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,52.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,61.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,15.0,0,0,No,Rural,underweight,never smoked,0
+Female,53.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,58.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,31.0,0,0,No,Urban,moderate,never smoked,0
+Female,29.0,0,0,Yes,Rural,obesity,smokes,0
+Male,75.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,smokes,0
+Male,39.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,40.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,13.0,0,0,No,Urban,obesity,never smoked,0
+Male,26.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,44.0,0,0,No,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,smokes,0
+Male,25.0,0,0,No,Urban,overweight,never smoked,0
+Female,41.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,25.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,38.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,64.0,0,1,Yes,Urban,obesity,smokes,0
+Male,22.0,0,0,No,Rural,overweight,never smoked,0
+Male,71.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Rural,overweight,smokes,0
+Female,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,25.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,80.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,35.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,31.0,0,0,No,Urban,moderate,smokes,0
+Female,21.0,0,0,No,Rural,overweight,never smoked,0
+Male,59.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,10.0,0,0,No,Urban,moderate,smokes,0
+Male,60.0,0,0,Yes,Urban,obesity,smokes,0
+Male,48.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,69.0,1,0,Yes,Urban,obesity,smokes,0
+Female,20.0,0,0,No,Urban,overweight,never smoked,0
+Female,22.0,0,0,No,Rural,obesity,smokes,0
+Female,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,79.0,0,0,Yes,Urban,overweight,smokes,0
+Male,56.0,0,0,No,Rural,overweight,never smoked,0
+Female,45.0,0,0,Yes,Urban,moderate,smokes,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,smokes,0
+Male,58.0,0,0,No,Rural,obesity,smokes,0
+Female,63.0,0,0,Yes,Rural,overweight,smokes,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,35.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,35.0,0,0,Yes,Urban,overweight,smokes,0
+Male,64.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,42.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,62.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,52.0,1,0,Yes,Urban,moderate,never smoked,0
+Male,64.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,15.0,0,0,No,Urban,moderate,never smoked,0
+Male,50.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,73.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,19.0,0,0,No,Urban,moderate,never smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,47.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,66.0,0,0,Yes,Urban,obesity,smokes,0
+Male,47.0,0,0,Yes,Urban,obesity,smokes,0
+Female,41.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,63.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,12.0,0,0,No,Urban,moderate,never smoked,0
+Female,46.0,0,0,Yes,Urban,obesity,smokes,0
+Male,74.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,74.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,26.0,0,0,No,Urban,moderate,never smoked,0
+Male,63.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,48.0,0,1,No,Rural,overweight,smokes,0
+Female,24.0,1,0,No,Urban,obesity,smokes,0
+Male,47.0,0,0,No,Rural,obesity,never smoked,0
+Male,70.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,41.0,1,1,Yes,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,overweight,smokes,0
+Female,57.0,1,0,No,Rural,obesity,never smoked,0
+Female,51.0,0,0,No,Rural,obesity,never smoked,0
+Male,15.0,0,0,No,Urban,obesity,never smoked,0
+Female,27.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,68.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,smokes,0
+Female,43.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,78.0,1,1,Yes,Rural,obesity,formerly smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,49.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,50.0,1,0,No,Urban,obesity,formerly smoked,0
+Female,27.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,52.0,1,0,No,Rural,obesity,formerly smoked,0
+Female,22.0,0,0,No,Urban,obesity,smokes,0
+Female,19.0,0,0,No,Rural,obesity,smokes,0
+Male,77.0,0,1,Yes,Urban,moderate,formerly smoked,0
+Male,57.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,13.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,14.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,49.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,21.0,0,0,No,Urban,obesity,never smoked,0
+Male,36.0,1,0,No,Urban,obesity,smokes,0
+Male,42.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,56.0,0,0,No,Rural,overweight,smokes,0
+Male,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,79.0,0,1,Yes,Urban,obesity,smokes,0
+Male,37.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,36.0,0,0,Yes,Rural,moderate,smokes,0
+Male,50.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,39.0,0,0,No,Urban,moderate,never smoked,0
+Female,71.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,52.0,0,0,Yes,Rural,overweight,smokes,0
+Male,72.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,29.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,26.0,0,0,Yes,Rural,underweight,never smoked,0
+Female,23.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,13.0,0,0,No,Rural,underweight,never smoked,0
+Female,26.0,0,0,No,Rural,moderate,never smoked,0
+Male,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,25.0,0,0,Yes,Rural,overweight,smokes,0
+Female,53.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,72.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,smokes,0
+Female,55.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,49.0,0,0,Yes,Urban,obesity,smokes,0
+Female,12.0,0,0,No,Urban,underweight,never smoked,0
+Male,40.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,18.0,0,0,No,Rural,moderate,never smoked,0
+Male,73.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,67.0,1,0,Yes,Urban,obesity,smokes,0
+Male,58.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,34.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,78.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,17.0,0,0,No,Rural,moderate,smokes,0
+Female,71.0,0,0,Yes,Rural,obesity,smokes,0
+Male,56.0,0,0,Yes,Urban,overweight,smokes,0
+Male,64.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,40.0,0,0,Yes,Rural,underweight,never smoked,0
+Male,80.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,62.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,79.0,1,0,Yes,Urban,overweight,smokes,0
+Female,77.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,26.0,0,0,No,Urban,moderate,never smoked,0
+Male,16.0,0,0,No,Urban,moderate,never smoked,0
+Female,40.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,45.0,1,0,Yes,Urban,obesity,smokes,0
+Female,59.0,0,0,No,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,smokes,0
+Female,69.0,0,1,Yes,Urban,overweight,never smoked,0
+Male,73.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,80.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,60.0,0,0,Yes,Urban,obesity,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,smokes,0
+Female,66.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,78.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,18.0,0,0,No,Rural,moderate,never smoked,0
+Male,69.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,28.0,0,0,No,Urban,moderate,never smoked,0
+Male,34.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,55.0,0,1,No,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,73.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,65.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,48.0,1,0,Yes,Urban,overweight,never smoked,0
+Male,54.0,1,0,Yes,Rural,obesity,smokes,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,77.0,0,0,Yes,Rural,moderate,smokes,0
+Female,34.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,46.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,moderate,smokes,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,13.0,0,0,No,Urban,moderate,never smoked,0
+Female,76.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,20.0,0,0,No,Rural,obesity,never smoked,0
+Female,78.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,49.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,43.0,0,0,No,Rural,obesity,never smoked,0
+Female,16.0,0,0,No,Rural,overweight,never smoked,0
+Male,58.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,67.0,0,0,Yes,Urban,obesity,smokes,0
+Female,71.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,59.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,28.0,0,0,No,Urban,obesity,never smoked,0
+Female,20.0,0,0,No,Urban,obesity,smokes,0
+Male,67.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,71.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,44.0,0,0,No,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,63.0,0,0,Yes,Rural,moderate,smokes,0
+Male,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,22.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,82.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,42.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,73.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,64.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,52.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,smokes,0
+Female,64.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,23.0,0,0,No,Urban,obesity,smokes,0
+Male,18.0,0,0,No,Rural,moderate,never smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,61.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,66.0,0,0,Yes,Urban,obesity,smokes,0
+Male,59.0,0,0,Yes,Urban,obesity,smokes,0
+Male,47.0,1,0,Yes,Urban,overweight,never smoked,0
+Female,47.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,71.0,1,0,Yes,Urban,obesity,smokes,0
+Male,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,68.0,0,0,Yes,Rural,moderate,smokes,0
+Male,37.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,75.0,0,0,Yes,Rural,obesity,smokes,0
+Male,49.0,0,0,Yes,Rural,obesity,smokes,0
+Female,50.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,76.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,18.0,0,0,No,Urban,obesity,never smoked,0
+Male,82.0,0,0,Yes,Urban,overweight,smokes,0
+Female,27.0,0,0,Yes,Urban,obesity,smokes,0
+Male,57.0,0,0,Yes,Urban,obesity,smokes,0
+Female,51.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,68.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,smokes,0
+Female,52.0,1,0,Yes,Rural,obesity,smokes,0
+Female,18.0,0,0,No,Rural,obesity,smokes,0
+Female,63.0,0,0,Yes,Urban,obesity,smokes,0
+Female,37.0,0,0,No,Urban,overweight,never smoked,0
+Female,64.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,37.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,69.0,0,1,No,Urban,obesity,smokes,0
+Male,73.0,0,0,No,Rural,obesity,smokes,0
+Male,48.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,78.0,1,0,Yes,Urban,overweight,never smoked,0
+Female,21.0,0,0,No,Rural,obesity,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,smokes,0
+Male,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,82.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,69.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,21.0,0,0,No,Urban,overweight,never smoked,0
+Female,46.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,14.0,0,0,No,Urban,moderate,never smoked,0
+Male,47.0,0,0,No,Rural,moderate,never smoked,0
+Male,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,67.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,20.0,0,0,No,Rural,obesity,never smoked,0
+Female,63.0,0,0,Yes,Rural,overweight,smokes,0
+Female,73.0,0,0,Yes,Urban,moderate,smokes,0
+Male,50.0,1,0,Yes,Rural,overweight,smokes,0
+Male,71.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,80.0,0,1,Yes,Rural,moderate,smokes,0
+Female,64.0,0,0,Yes,Rural,obesity,smokes,0
+Female,35.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,72.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,25.0,0,0,No,Rural,moderate,smokes,0
+Female,27.0,0,0,Yes,Urban,overweight,smokes,0
+Female,62.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,56.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,29.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,26.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,26.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,29.0,0,0,No,Rural,obesity,smokes,0
+Female,29.0,0,0,No,Rural,overweight,never smoked,0
+Female,33.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,19.0,1,0,No,Rural,obesity,never smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,79.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,41.0,0,0,Yes,Rural,overweight,smokes,0
+Female,51.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,smokes,0
+Female,61.0,0,0,No,Rural,obesity,never smoked,0
+Male,31.0,0,0,No,Rural,obesity,smokes,0
+Male,60.0,1,0,No,Urban,obesity,never smoked,0
+Male,53.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,52.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,14.0,0,0,No,Urban,obesity,never smoked,0
+Female,40.0,0,0,No,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,smokes,0
+Female,52.0,1,0,Yes,Urban,obesity,smokes,0
+Male,30.0,0,0,Yes,Rural,overweight,smokes,0
+Female,47.0,0,0,Yes,Urban,obesity,smokes,0
+Female,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,overweight,smokes,0
+Female,58.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,moderate,smokes,0
+Male,65.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,37.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,No,Rural,moderate,never smoked,0
+Male,62.0,0,0,No,Urban,obesity,never smoked,0
+Female,77.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,36.0,0,0,Yes,Urban,moderate,smokes,0
+Male,78.0,1,1,No,Urban,obesity,smokes,0
+Female,49.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,44.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,60.0,0,0,Yes,Urban,obesity,smokes,0
+Female,56.0,0,0,Yes,Rural,moderate,smokes,0
+Female,73.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,smokes,0
+Female,80.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,46.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,80.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,65.0,0,0,No,Urban,obesity,never smoked,0
+Female,33.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,11.0,0,0,No,Urban,underweight,formerly smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,19.0,0,0,No,Urban,overweight,never smoked,0
+Male,82.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,smokes,0
+Female,14.0,0,0,No,Rural,moderate,never smoked,0
+Female,60.0,1,0,No,Urban,obesity,smokes,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,79.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,67.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,60.0,0,0,No,Rural,overweight,never smoked,0
+Female,36.0,0,0,No,Rural,obesity,never smoked,0
+Male,36.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,26.0,0,0,No,Urban,moderate,smokes,0
+Male,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,36.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,30.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,14.0,0,0,No,Rural,overweight,formerly smoked,0
+Female,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,78.0,0,0,Yes,Rural,moderate,smokes,0
+Male,32.0,0,0,Yes,Urban,obesity,smokes,0
+Female,50.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,66.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,78.0,0,1,Yes,Urban,obesity,smokes,0
+Female,54.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,81.0,1,1,Yes,Rural,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,76.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,44.0,0,0,No,Urban,obesity,smokes,0
+Female,39.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,34.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,50.0,0,0,No,Urban,overweight,smokes,0
+Female,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,28.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,smokes,0
+Male,28.0,0,0,No,Urban,obesity,smokes,0
+Male,62.0,1,1,Yes,Rural,obesity,never smoked,0
+Male,31.0,0,0,No,Rural,moderate,never smoked,0
+Male,55.0,1,0,Yes,Urban,moderate,smokes,0
+Female,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,73.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Male,26.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,73.0,0,1,Yes,Rural,overweight,smokes,0
+Female,38.0,0,0,Yes,Rural,overweight,smokes,0
+Female,20.0,0,0,No,Rural,obesity,smokes,0
+Female,12.0,0,0,No,Urban,moderate,formerly smoked,0
+Male,78.0,0,1,Yes,Urban,overweight,formerly smoked,0
+Female,42.0,0,0,No,Urban,moderate,never smoked,0
+Female,71.0,1,0,Yes,Urban,obesity,smokes,0
+Male,60.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,45.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,21.0,0,0,No,Rural,obesity,smokes,0
+Female,67.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,10.0,0,0,No,Rural,moderate,never smoked,0
+Female,24.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,79.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,14.0,0,0,No,Urban,moderate,never smoked,0
+Male,71.0,0,1,Yes,Urban,obesity,smokes,0
+Male,32.0,0,0,No,Rural,obesity,never smoked,0
+Male,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,48.0,1,0,Yes,Urban,obesity,smokes,0
+Female,45.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,31.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,25.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,73.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,27.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,28.0,0,0,Yes,Rural,moderate,smokes,0
+Male,46.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,11.0,0,0,No,Urban,moderate,never smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,35.0,0,0,No,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,69.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,72.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,73.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,24.0,0,0,No,Urban,obesity,never smoked,0
+Male,27.0,0,0,No,Urban,obesity,never smoked,0
+Female,78.0,0,1,No,Urban,moderate,never smoked,0
+Female,77.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,smokes,0
+Male,39.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,35.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,75.0,0,1,Yes,Urban,overweight,never smoked,0
+Female,35.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,53.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,13.0,0,0,No,Rural,overweight,never smoked,0
+Female,35.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,76.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,79.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,69.0,0,0,Yes,Urban,underweight,formerly smoked,0
+Female,78.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,21.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,69.0,0,0,Yes,Urban,obesity,smokes,0
+Male,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,25.0,0,0,No,Rural,obesity,never smoked,0
+Female,58.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,46.0,0,0,Yes,Urban,moderate,smokes,0
+Male,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,60.0,0,0,Yes,Rural,obesity,smokes,0
+Male,42.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,80.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,smokes,0
+Female,50.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,23.0,0,0,No,Rural,moderate,smokes,0
+Female,45.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,70.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,82.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,79.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,74.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,78.0,0,1,Yes,Urban,moderate,formerly smoked,0
+Female,50.0,0,0,Yes,Rural,moderate,smokes,0
+Male,47.0,0,0,Yes,Urban,obesity,smokes,0
+Female,52.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,67.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,18.0,0,0,No,Rural,moderate,smokes,0
+Female,75.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,smokes,0
+Male,29.0,0,0,Yes,Urban,overweight,smokes,0
+Male,52.0,0,0,Yes,Rural,obesity,smokes,0
+Female,66.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,18.0,0,0,No,Urban,underweight,never smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,smokes,0
+Male,46.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,36.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,61.0,0,0,Yes,Urban,obesity,smokes,0
+Male,20.0,0,0,No,Urban,moderate,never smoked,0
+Male,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,25.0,0,0,No,Rural,moderate,smokes,0
+Male,66.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,53.0,0,0,No,Urban,obesity,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,23.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,81.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,69.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,15.0,0,0,No,Urban,moderate,never smoked,0
+Male,31.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,80.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,smokes,0
+Female,38.0,0,0,Yes,Rural,moderate,smokes,0
+Male,76.0,0,1,Yes,Rural,moderate,never smoked,0
+Female,45.0,0,0,No,Rural,obesity,smokes,0
+Female,77.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,73.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,40.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,No,Urban,obesity,never smoked,0
+Male,39.0,0,0,Yes,Urban,obesity,smokes,0
+Female,34.0,0,0,No,Rural,obesity,smokes,0
+Female,54.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,50.0,1,1,No,Urban,overweight,smokes,0
+Female,64.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,44.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,38.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,81.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,70.0,1,1,Yes,Rural,obesity,never smoked,0
+Male,52.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,67.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Male,61.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,31.0,0,0,No,Urban,obesity,smokes,0
+Male,58.0,0,0,Yes,Rural,obesity,smokes,0
+Female,12.0,0,0,No,Rural,obesity,never smoked,0
+Female,30.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,23.0,0,0,No,Urban,moderate,smokes,0
+Male,14.0,0,0,No,Rural,underweight,never smoked,0
+Male,27.0,0,0,No,Rural,obesity,smokes,0
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,58.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,1,0,Yes,Urban,obesity,smokes,0
+Female,46.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,41.0,0,0,No,Rural,obesity,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,36.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,36.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,47.0,0,0,No,Rural,moderate,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,17.0,0,0,No,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,smokes,0
+Female,46.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,smokes,0
+Female,18.0,0,0,No,Urban,moderate,never smoked,0
+Female,41.0,0,0,No,Urban,overweight,never smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,24.0,0,0,No,Urban,moderate,never smoked,0
+Male,43.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,24.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,79.0,0,0,No,Urban,obesity,never smoked,0
+Male,79.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,27.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,64.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,26.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,80.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,46.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,29.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,32.0,0,0,Yes,Urban,moderate,smokes,0
+Female,16.0,0,0,No,Urban,overweight,never smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,23.0,0,0,No,Urban,underweight,never smoked,0
+Male,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,smokes,0
+Male,14.0,0,0,No,Rural,obesity,never smoked,0
+Female,40.0,0,0,No,Rural,obesity,smokes,0
+Female,42.0,0,0,No,Urban,obesity,never smoked,0
+Male,47.0,0,0,Yes,Rural,obesity,smokes,0
+Male,14.0,0,0,No,Rural,moderate,never smoked,0
+Male,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,58.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,62.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,51.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,smokes,0
+Female,41.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,20.0,0,0,No,Rural,obesity,smokes,0
+Male,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,62.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,42.0,0,0,No,Rural,obesity,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,80.0,0,1,Yes,Rural,overweight,smokes,0
+Female,20.0,0,0,No,Rural,moderate,never smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,smokes,0
+Female,41.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,76.0,0,0,Yes,Urban,overweight,smokes,0
+Male,29.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,smokes,0
+Female,49.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,70.0,1,0,Yes,Rural,overweight,smokes,0
+Male,24.0,0,0,No,Urban,obesity,smokes,0
+Female,41.0,0,0,Yes,Urban,obesity,smokes,0
+Male,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,27.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,44.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,20.0,0,0,No,Rural,obesity,never smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,29.0,0,0,No,Rural,obesity,smokes,0
+Female,35.0,0,0,Yes,Rural,overweight,smokes,0
+Male,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,No,Urban,moderate,never smoked,0
+Male,30.0,0,0,No,Urban,obesity,never smoked,0
+Male,75.0,1,0,Yes,Rural,obesity,smokes,0
+Female,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,38.0,0,0,Yes,Rural,obesity,smokes,0
+Female,26.0,0,0,No,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,76.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,79.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,34.0,0,0,Yes,Rural,obesity,smokes,0
+Male,75.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,11.0,0,0,No,Rural,underweight,never smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,smokes,0
+Female,82.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,81.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,33.0,1,0,No,Rural,obesity,smokes,0
+Female,79.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,overweight,smokes,0
+Female,60.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,48.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,24.0,0,0,No,Rural,overweight,formerly smoked,0
+Female,70.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,72.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,29.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,33.0,0,0,Yes,Urban,obesity,smokes,0
+Male,63.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,50.0,0,0,No,Rural,overweight,formerly smoked,0
+Male,78.0,1,1,Yes,Rural,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,smokes,0
+Male,51.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,23.0,0,0,No,Urban,moderate,never smoked,0
+Male,46.0,0,0,Yes,Rural,obesity,smokes,0
+Female,16.0,0,0,No,Urban,obesity,never smoked,0
+Female,26.0,0,0,No,Rural,moderate,never smoked,0
+Female,44.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,smokes,0
+Female,23.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,63.0,0,1,Yes,Rural,obesity,smokes,0
+Male,23.0,0,0,No,Urban,moderate,smokes,0
+Male,32.0,0,0,No,Rural,moderate,never smoked,0
+Male,77.0,0,0,Yes,Urban,moderate,smokes,0
+Female,41.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,34.0,0,0,No,Urban,overweight,never smoked,0
+Female,35.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,15.0,0,0,No,Urban,moderate,never smoked,0
+Female,33.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,28.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,76.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Female,72.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,44.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,46.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,46.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,73.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Female,27.0,0,0,No,Rural,moderate,never smoked,0
+Female,36.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,61.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,25.0,0,0,No,Urban,obesity,never smoked,0
+Female,68.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,26.0,1,0,Yes,Urban,obesity,smokes,0
+Female,17.0,0,0,No,Urban,overweight,smokes,0
+Male,75.0,0,0,Yes,Rural,overweight,smokes,0
+Male,53.0,0,0,Yes,Rural,overweight,smokes,0
+Male,48.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,79.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,16.0,0,0,No,Rural,overweight,never smoked,0
+Male,70.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,55.0,1,1,Yes,Rural,obesity,smokes,0
+Female,70.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,smokes,0
+Female,39.0,0,0,Yes,Rural,overweight,smokes,0
+Male,80.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,smokes,0
+Female,21.0,0,0,No,Rural,overweight,formerly smoked,0
+Female,26.0,0,0,No,Urban,overweight,smokes,0
+Male,62.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,smokes,0
+Male,42.0,0,0,Yes,Rural,obesity,smokes,0
+Female,82.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,61.0,0,0,Yes,Rural,overweight,smokes,0
+Male,59.0,1,1,Yes,Rural,obesity,never smoked,0
+Female,31.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,12.0,0,0,No,Urban,obesity,never smoked,0
+Female,76.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,71.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Male,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,30.0,0,0,No,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,62.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,78.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,35.0,0,0,Yes,Urban,obesity,smokes,0
+Male,71.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,26.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,33.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,35.0,0,0,No,Rural,overweight,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,73.0,0,0,No,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,45.0,0,0,Yes,Rural,obesity,smokes,0
+Female,60.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,49.0,1,0,Yes,Urban,obesity,smokes,0
+Female,55.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,smokes,0
+Male,76.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,70.0,1,0,Yes,Urban,moderate,formerly smoked,0
+Male,79.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,30.0,0,0,Yes,Urban,obesity,smokes,0
+Female,26.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,smokes,0
+Male,77.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,67.0,1,0,Yes,Rural,obesity,smokes,0
+Female,36.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,33.0,0,0,Yes,Urban,obesity,smokes,0
+Female,20.0,0,0,No,Urban,obesity,never smoked,0
+Male,25.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,23.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,10.0,0,0,No,Rural,underweight,formerly smoked,0
+Female,34.0,0,0,Yes,Urban,obesity,smokes,0
+Female,60.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,22.0,0,0,No,Urban,obesity,never smoked,0
+Female,62.0,1,0,Yes,Urban,obesity,smokes,0
+Female,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,61.0,0,0,No,Rural,obesity,never smoked,0
+Female,10.0,0,0,No,Rural,obesity,never smoked,0
+Male,36.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,29.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,62.0,0,1,Yes,Rural,overweight,never smoked,0
+Female,79.0,0,0,No,Urban,obesity,never smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,56.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,24.0,0,0,No,Urban,moderate,never smoked,0
+Female,40.0,0,0,No,Urban,obesity,never smoked,0
+Female,22.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,80.0,1,0,Yes,Urban,overweight,never smoked,0
+Female,60.0,1,1,Yes,Urban,obesity,never smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,55.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,39.0,0,0,Yes,Urban,moderate,smokes,0
+Female,51.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,77.0,1,1,Yes,Urban,obesity,smokes,0
+Female,32.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,45.0,0,0,No,Urban,obesity,never smoked,0
+Female,49.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,74.0,0,0,Yes,Rural,underweight,never smoked,0
+Female,72.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,51.0,1,0,No,Urban,obesity,never smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,73.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,12.0,0,0,No,Rural,moderate,never smoked,0
+Female,76.0,0,0,Yes,Urban,obesity,smokes,0
+Female,38.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,32.0,0,0,Yes,Rural,obesity,smokes,0
+Female,63.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,29.0,0,0,No,Rural,obesity,smokes,0
+Male,53.0,0,0,Yes,Urban,obesity,smokes,0
+Female,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,81.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,smokes,0
+Female,61.0,0,0,Yes,Urban,underweight,smokes,0
+Male,82.0,0,0,No,Urban,obesity,never smoked,0
+Female,43.0,0,0,Yes,Urban,moderate,smokes,0
+Male,58.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,smokes,0
+Female,62.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,72.0,0,0,Yes,Urban,obesity,never smoked,0
+Other,26.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,31.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,22.0,0,0,No,Rural,moderate,never smoked,0
+Female,57.0,1,0,Yes,Rural,obesity,smokes,0
+Male,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,64.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,26.0,0,0,No,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,32.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,77.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,16.0,0,0,No,Urban,obesity,never smoked,0
+Female,73.0,0,1,Yes,Rural,obesity,never smoked,0
+Male,36.0,0,0,Yes,Rural,obesity,smokes,0
+Female,42.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,32.0,0,0,Yes,Urban,moderate,smokes,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,11.0,0,0,No,Rural,moderate,never smoked,0
+Female,75.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,73.0,0,0,Yes,Rural,moderate,smokes,0
+Female,56.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,54.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,69.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,29.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,64.0,1,0,Yes,Urban,moderate,never smoked,0
+Female,16.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,75.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Male,24.0,0,0,Yes,Rural,moderate,smokes,0
+Female,68.0,0,0,No,Urban,obesity,smokes,0
+Male,52.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,82.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,56.0,0,0,Yes,Rural,obesity,smokes,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,smokes,0
+Male,44.0,0,0,Yes,Rural,obesity,smokes,0
+Male,24.0,0,0,Yes,Urban,overweight,smokes,0
+Female,24.0,0,0,No,Urban,moderate,never smoked,0
+Male,54.0,0,1,Yes,Urban,obesity,smokes,0
+Female,72.0,1,0,Yes,Rural,moderate,never smoked,0
+Female,36.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,22.0,0,0,No,Urban,overweight,smokes,0
+Female,68.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,24.0,0,0,No,Urban,moderate,smokes,0
+Female,35.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,32.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,52.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,21.0,0,0,No,Rural,overweight,never smoked,0
+Female,82.0,1,0,No,Rural,moderate,never smoked,0
+Male,33.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,57.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,14.0,0,0,No,Urban,obesity,never smoked,0
+Female,63.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,80.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,46.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,26.0,0,0,Yes,Urban,overweight,smokes,0
+Female,70.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,15.0,0,0,No,Rural,obesity,never smoked,0
+Male,67.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,smokes,0
+Female,42.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,49.0,1,0,Yes,Rural,moderate,formerly smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,52.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,41.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,73.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,64.0,1,0,Yes,Urban,overweight,never smoked,0
+Male,65.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,47.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,56.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,26.0,0,0,No,Rural,overweight,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,57.0,0,0,Yes,Urban,moderate,smokes,0
+Female,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,76.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,36.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,25.0,0,0,No,Rural,moderate,never smoked,0
+Female,76.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,66.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,79.0,1,0,Yes,Rural,overweight,formerly smoked,0
+Female,25.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,53.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,35.0,1,0,Yes,Urban,obesity,smokes,0
+Female,32.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,smokes,0
+Female,65.0,0,0,Yes,Urban,obesity,smokes,0
+Female,15.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,71.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,47.0,0,0,Yes,Rural,moderate,smokes,0
+Female,75.0,1,0,No,Rural,moderate,formerly smoked,0
+Female,61.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,27.0,0,0,Yes,Urban,obesity,smokes,0
+Female,55.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,51.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,45.0,0,0,Yes,Rural,overweight,smokes,0
+Male,36.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,46.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,smokes,0
+Female,79.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,36.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,31.0,0,0,No,Urban,obesity,never smoked,0
+Female,26.0,0,0,No,Rural,moderate,never smoked,0
+Male,43.0,0,0,No,Urban,obesity,smokes,0
+Female,33.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,34.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,66.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,67.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,18.0,0,0,No,Rural,obesity,never smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,smokes,0
+Male,48.0,0,0,No,Rural,obesity,never smoked,0
+Male,44.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,68.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,52.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,15.0,0,0,No,Rural,obesity,never smoked,0
+Male,52.0,1,0,Yes,Urban,obesity,smokes,0
+Male,61.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,36.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,82.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,81.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,81.0,1,1,No,Rural,obesity,never smoked,0
+Male,60.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,58.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,34.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,23.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,74.0,0,0,No,Urban,obesity,never smoked,0
+Male,72.0,0,1,Yes,Urban,obesity,smokes,0
+Female,56.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,13.0,0,0,No,Rural,underweight,never smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Urban,obesity,smokes,0
+Male,63.0,0,0,Yes,Urban,obesity,smokes,0
+Female,72.0,0,1,No,Rural,moderate,formerly smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,80.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,37.0,0,0,Yes,Urban,obesity,smokes,0
+Female,58.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,38.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,20.0,0,0,No,Urban,obesity,never smoked,0
+Male,23.0,0,0,No,Rural,overweight,never smoked,0
+Male,55.0,0,0,No,Rural,underweight,formerly smoked,0
+Female,23.0,0,0,No,Urban,moderate,never smoked,0
+Male,82.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,smokes,0
+Male,43.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,22.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,75.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,51.0,0,0,No,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,75.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,smokes,0
+Female,33.0,0,0,No,Urban,obesity,smokes,0
+Female,72.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,smokes,0
+Female,28.0,0,0,No,Urban,obesity,smokes,0
+Female,78.0,1,0,No,Rural,obesity,never smoked,0
+Female,82.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,74.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,53.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,67.0,1,0,Yes,Rural,overweight,never smoked,0
+Female,17.0,0,0,No,Urban,moderate,never smoked,0
+Female,29.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,56.0,1,0,Yes,Rural,obesity,smokes,0
+Female,29.0,0,0,No,Rural,overweight,never smoked,0
+Female,79.0,1,1,Yes,Rural,moderate,smokes,0
+Female,82.0,1,1,Yes,Urban,obesity,never smoked,0
+Male,23.0,0,0,No,Urban,moderate,never smoked,0
+Male,47.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,24.0,0,0,No,Rural,obesity,smokes,0
+Female,60.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,44.0,0,0,Yes,Urban,overweight,smokes,0
+Male,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,18.0,0,0,No,Rural,overweight,never smoked,0
+Male,18.0,0,0,No,Urban,moderate,never smoked,0
+Female,47.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,80.0,1,0,Yes,Rural,moderate,never smoked,0
+Female,72.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,66.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,53.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,15.0,0,0,No,Rural,moderate,never smoked,0
+Female,78.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,78.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,71.0,1,1,Yes,Rural,overweight,smokes,0
+Male,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,16.0,0,0,No,Rural,moderate,never smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,smokes,0
+Male,32.0,0,0,Yes,Urban,obesity,smokes,0
+Male,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,40.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,41.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,21.0,0,0,No,Urban,moderate,never smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,67.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,49.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,25.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,75.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,72.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,14.0,0,0,No,Urban,obesity,never smoked,0
+Male,59.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,23.0,0,0,No,Urban,obesity,never smoked,0
+Female,63.0,1,1,No,Urban,overweight,never smoked,0
+Male,82.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,28.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,24.0,0,0,Yes,Rural,overweight,smokes,0
+Male,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,69.0,1,0,Yes,Urban,overweight,formerly smoked,0
+Male,50.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,34.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,64.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,47.0,0,0,Yes,Rural,obesity,smokes,0
+Female,61.0,0,0,Yes,Rural,overweight,smokes,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,53.0,0,1,Yes,Urban,obesity,formerly smoked,0
+Male,67.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,57.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,37.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,39.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,smokes,0
+Female,68.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,79.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,46.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,66.0,0,0,Yes,Urban,moderate,smokes,0
+Female,61.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,16.0,0,0,No,Urban,moderate,smokes,0
+Female,37.0,0,0,Yes,Urban,moderate,smokes,0
+Female,43.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,27.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,44.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,52.0,0,1,No,Rural,obesity,formerly smoked,0
+Male,54.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,77.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,27.0,0,0,No,Rural,obesity,never smoked,0
+Female,35.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,48.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,15.0,0,0,No,Urban,moderate,never smoked,0
+Female,26.0,0,0,Yes,Urban,moderate,smokes,0
+Male,29.0,0,0,No,Rural,obesity,smokes,0
+Female,55.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,52.0,0,0,Yes,Urban,overweight,smokes,0
+Female,24.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,70.0,1,0,Yes,Urban,underweight,formerly smoked,0
+Female,51.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,58.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,46.0,0,0,Yes,Urban,overweight,smokes,0
+Female,61.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,51.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,71.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,16.0,0,0,No,Rural,moderate,never smoked,0
+Female,61.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,65.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,40.0,0,0,No,Urban,moderate,never smoked,0
+Female,44.0,0,0,Yes,Rural,moderate,smokes,0
+Female,20.0,0,0,No,Rural,obesity,smokes,0
+Male,24.0,0,0,No,Rural,obesity,never smoked,0
+Female,44.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,41.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,23.0,0,0,No,Urban,moderate,never smoked,0
+Female,74.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,80.0,1,0,Yes,Urban,obesity,smokes,0
+Female,35.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,43.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,72.0,0,1,Yes,Urban,overweight,formerly smoked,0
+Female,45.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,33.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,53.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,67.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,27.0,0,0,No,Rural,obesity,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,33.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,39.0,1,0,Yes,Rural,obesity,smokes,0
+Female,74.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,22.0,0,0,No,Urban,overweight,never smoked,0
+Male,24.0,0,0,No,Urban,overweight,formerly smoked,0
+Male,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,20.0,0,0,No,Urban,moderate,never smoked,0
+Female,71.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,65.0,0,0,No,Urban,obesity,never smoked,0
+Male,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,55.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,38.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,72.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Male,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,69.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,61.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,43.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,48.0,0,0,Yes,Rural,overweight,smokes,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,64.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,75.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,49.0,0,0,No,Rural,overweight,never smoked,0
+Male,82.0,0,0,No,Urban,overweight,smokes,0
+Female,36.0,0,0,Yes,Rural,obesity,smokes,0
+Female,64.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,32.0,0,0,No,Rural,obesity,never smoked,0
+Male,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,76.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,61.0,0,0,Yes,Urban,overweight,smokes,0
+Male,30.0,0,0,Yes,Rural,moderate,smokes,0
+Male,48.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,38.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,27.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,78.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,53.0,1,0,Yes,Rural,obesity,smokes,0
+Female,73.0,1,0,Yes,Urban,overweight,never smoked,0
+Male,34.0,0,0,Yes,Urban,obesity,smokes,0
+Male,58.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,40.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,35.0,0,0,No,Rural,moderate,never smoked,0
+Male,82.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,51.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,55.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,43.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,81.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,12.0,0,0,No,Urban,underweight,formerly smoked,0
+Female,20.0,0,0,No,Urban,overweight,smokes,0
+Female,53.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,22.0,0,0,No,Urban,obesity,never smoked,0
+Female,75.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,No,Urban,obesity,never smoked,0
+Female,14.0,0,0,No,Rural,obesity,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,75.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,80.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,74.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,80.0,1,0,Yes,Urban,overweight,never smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,28.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,25.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,71.0,0,0,No,Urban,obesity,never smoked,0
+Female,51.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,45.0,1,0,No,Rural,obesity,never smoked,0
+Male,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,42.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,64.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,44.0,0,0,Yes,Rural,obesity,smokes,0
+Male,78.0,0,1,Yes,Urban,overweight,formerly smoked,0
+Female,69.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,69.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,58.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,75.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,60.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,75.0,0,0,Yes,Urban,obesity,smokes,0
+Male,38.0,0,0,No,Rural,obesity,smokes,0
+Male,28.0,0,0,No,Urban,overweight,smokes,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,59.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,31.0,0,0,No,Rural,overweight,smokes,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,smokes,0
+Male,31.0,0,0,No,Rural,obesity,smokes,0
+Male,43.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,34.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,42.0,0,0,No,Urban,obesity,never smoked,0
+Male,44.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,69.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,69.0,0,0,No,Urban,obesity,smokes,0
+Female,13.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,64.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,65.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,63.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,14.0,0,0,No,Rural,obesity,never smoked,0
+Male,51.0,1,0,Yes,Urban,obesity,smokes,0
+Male,52.0,1,0,Yes,Rural,obesity,smokes,0
+Female,69.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,10.0,0,0,No,Rural,moderate,never smoked,0
+Female,26.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,71.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,46.0,0,0,Yes,Urban,moderate,smokes,0
+Male,15.0,0,0,No,Rural,moderate,never smoked,0
+Female,29.0,0,0,No,Urban,moderate,never smoked,0
+Female,21.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,56.0,1,0,No,Urban,moderate,formerly smoked,0
+Female,14.0,0,0,No,Rural,moderate,never smoked,0
+Female,36.0,0,0,No,Urban,obesity,never smoked,0
+Female,57.0,1,0,Yes,Urban,obesity,smokes,0
+Male,79.0,1,1,Yes,Rural,moderate,never smoked,0
+Male,22.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,72.0,0,1,Yes,Urban,overweight,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,62.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,28.0,0,0,No,Urban,obesity,never smoked,0
+Female,33.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,smokes,0
+Female,25.0,0,0,No,Urban,moderate,smokes,0
+Female,37.0,0,0,Yes,Urban,overweight,smokes,0
+Male,45.0,0,0,Yes,Urban,moderate,smokes,0
+Male,66.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Male,80.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,19.0,0,0,No,Urban,obesity,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,69.0,0,1,No,Urban,obesity,never smoked,0
+Female,46.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,78.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,63.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,18.0,0,0,No,Urban,moderate,never smoked,0
+Female,46.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,smokes,0
+Female,38.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,24.0,0,0,No,Urban,moderate,never smoked,0
+Male,78.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,12.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,28.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,44.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,50.0,0,0,Yes,Urban,obesity,smokes,0
+Female,50.0,0,1,Yes,Urban,obesity,smokes,0
+Female,37.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,65.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,40.0,0,0,No,Rural,overweight,never smoked,0
+Male,35.0,0,0,No,Urban,obesity,smokes,0
+Female,61.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,64.0,1,0,Yes,Urban,obesity,smokes,0
+Female,32.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,23.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,52.0,0,0,Yes,Rural,obesity,smokes,0
+Female,75.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,55.0,0,0,No,Rural,obesity,never smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Female,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,58.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Male,56.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,14.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,43.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,40.0,0,0,Yes,Urban,obesity,smokes,0
+Female,27.0,0,0,No,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,53.0,0,0,No,Urban,obesity,smokes,0
+Male,50.0,0,0,Yes,Urban,overweight,smokes,0
+Male,26.0,0,0,No,Urban,obesity,smokes,0
+Female,19.0,0,0,No,Rural,moderate,never smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,smokes,0
+Male,64.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Urban,overweight,smokes,0
+Female,73.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,31.0,0,0,No,Rural,obesity,smokes,0
+Female,58.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,60.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,32.0,1,0,No,Urban,obesity,formerly smoked,0
+Male,23.0,0,0,No,Urban,moderate,smokes,0
+Male,26.0,0,0,No,Urban,obesity,smokes,0
+Male,36.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,35.0,0,0,Yes,Rural,obesity,smokes,0
+Female,47.0,0,0,Yes,Urban,obesity,smokes,0
+Male,81.0,1,1,Yes,Rural,overweight,formerly smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,28.0,0,1,Yes,Rural,moderate,smokes,0
+Female,45.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,20.0,0,0,No,Urban,obesity,smokes,0
+Female,65.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,45.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,50.0,0,0,Yes,Rural,overweight,smokes,0
+Female,30.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,31.0,0,0,No,Urban,moderate,smokes,0
+Female,68.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,63.0,1,0,Yes,Urban,overweight,never smoked,0
+Male,46.0,0,0,No,Urban,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,smokes,0
+Male,66.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,29.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,78.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,31.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,37.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,79.0,0,0,Yes,Rural,obesity,smokes,0
+Female,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,61.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Urban,obesity,smokes,0
+Male,24.0,0,0,No,Urban,overweight,never smoked,0
+Male,66.0,0,0,Yes,Rural,obesity,smokes,0
+Female,38.0,0,0,Yes,Rural,obesity,smokes,0
+Female,63.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,71.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,18.0,0,0,No,Rural,moderate,never smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,smokes,0
+Male,35.0,0,0,No,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,73.0,1,0,No,Rural,obesity,formerly smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,39.0,0,0,Yes,Urban,moderate,smokes,0
+Male,67.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,56.0,1,0,Yes,Rural,moderate,smokes,0
+Female,75.0,0,1,Yes,Urban,obesity,smokes,0
+Male,61.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,76.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,79.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,24.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,55.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,16.0,0,0,No,Rural,obesity,never smoked,0
+Female,38.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,20.0,0,0,No,Rural,obesity,smokes,0
+Female,38.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,52.0,0,0,Yes,Urban,obesity,smokes,0
+Male,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,80.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,75.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,13.0,0,0,No,Rural,underweight,never smoked,0
+Female,54.0,1,0,Yes,Urban,obesity,smokes,0
+Male,59.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,38.0,0,0,No,Rural,obesity,smokes,0
+Male,31.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,52.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,20.0,0,0,No,Urban,obesity,never smoked,0
+Male,67.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,smokes,0
+Female,51.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,28.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,41.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,72.0,1,1,Yes,Urban,overweight,formerly smoked,0
+Male,45.0,0,0,Yes,Rural,obesity,smokes,0
+Male,33.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,62.0,0,1,Yes,Rural,overweight,smokes,0
+Female,27.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,24.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,28.0,0,0,No,Rural,underweight,never smoked,0
+Male,38.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,27.0,0,0,No,Urban,overweight,smokes,0
+Female,30.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,36.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,44.0,1,0,Yes,Rural,overweight,never smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,61.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,18.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,smokes,0
+Male,13.0,0,0,No,Urban,underweight,never smoked,0
+Female,81.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,38.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,58.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,64.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,smokes,0
+Male,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,62.0,1,0,Yes,Rural,obesity,smokes,0
+Female,60.0,0,0,Yes,Rural,obesity,smokes,0
+Female,42.0,0,0,No,Rural,obesity,smokes,0
+Female,59.0,0,0,Yes,Urban,obesity,smokes,0
+Female,54.0,0,0,Yes,Urban,obesity,smokes,0
+Male,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,48.0,0,0,Yes,Urban,obesity,smokes,0
+Male,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,69.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,74.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,64.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,No,Rural,obesity,never smoked,0
+Male,55.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,74.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,41.0,0,1,No,Rural,obesity,formerly smoked,0
+Male,68.0,0,1,Yes,Rural,overweight,never smoked,0
+Female,36.0,0,0,Yes,Rural,moderate,smokes,0
+Male,24.0,0,0,Yes,Urban,moderate,smokes,0
+Female,69.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,69.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,25.0,0,0,No,Rural,moderate,smokes,0
+Female,28.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,16.0,0,0,No,Urban,obesity,never smoked,0
+Male,31.0,0,0,Yes,Urban,obesity,smokes,0
+Male,66.0,0,0,Yes,Urban,obesity,smokes,0
+Female,57.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,61.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,74.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,70.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,51.0,0,0,No,Rural,overweight,formerly smoked,0
+Female,10.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,40.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,52.0,0,1,Yes,Urban,obesity,never smoked,0
+Male,68.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,55.0,0,0,Yes,Urban,obesity,smokes,0
+Female,31.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,82.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,78.0,0,1,Yes,Rural,overweight,formerly smoked,0
+Male,55.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,17.0,0,0,No,Rural,overweight,never smoked,0
+Female,62.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,0,No,Urban,overweight,smokes,0
+Male,41.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,35.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,36.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,26.0,0,0,No,Urban,moderate,smokes,0
+Female,31.0,0,0,No,Rural,overweight,formerly smoked,0
+Female,56.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,36.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,79.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,25.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,78.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,36.0,0,0,Yes,Urban,moderate,smokes,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,72.0,0,0,Yes,Urban,overweight,smokes,0
+Male,63.0,0,1,No,Urban,overweight,smokes,0
+Female,28.0,0,0,Yes,Rural,obesity,smokes,0
+Female,80.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,56.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,66.0,0,1,No,Urban,obesity,never smoked,0
+Male,18.0,0,0,No,Urban,obesity,never smoked,0
+Female,81.0,1,1,Yes,Urban,moderate,formerly smoked,0
+Male,30.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,smokes,0
+Male,79.0,1,0,Yes,Urban,moderate,formerly smoked,0
+Female,53.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,25.0,0,0,No,Rural,overweight,never smoked,0
+Female,20.0,0,0,No,Urban,obesity,never smoked,0
+Female,18.0,0,0,No,Urban,moderate,never smoked,0
+Male,38.0,0,0,Yes,Rural,obesity,smokes,0
+Female,72.0,0,1,Yes,Urban,obesity,smokes,0
+Female,82.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,71.0,0,1,Yes,Rural,overweight,smokes,0
+Male,46.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,33.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,smokes,0
+Male,45.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,35.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,40.0,0,0,Yes,Urban,overweight,smokes,0
+Female,79.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,61.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,33.0,0,0,Yes,Urban,obesity,smokes,0
+Female,27.0,0,0,Yes,Urban,moderate,smokes,0
+Female,28.0,0,0,No,Rural,moderate,never smoked,0
+Female,67.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,35.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,78.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,20.0,0,0,No,Rural,moderate,never smoked,0
+Female,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,27.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,11.0,0,0,No,Urban,moderate,never smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,30.0,0,0,No,Rural,obesity,smokes,0
+Female,34.0,0,0,Yes,Urban,obesity,smokes,0
+Male,53.0,0,1,Yes,Rural,obesity,smokes,0
+Male,81.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,43.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,31.0,0,0,Yes,Rural,obesity,smokes,0
+Female,12.0,0,0,No,Rural,moderate,never smoked,0
+Female,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,38.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,15.0,0,0,No,Urban,obesity,never smoked,0
+Male,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,24.0,0,0,No,Rural,overweight,smokes,0
+Male,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,16.0,0,0,No,Urban,moderate,never smoked,0
+Male,64.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,38.0,0,0,Yes,Urban,underweight,never smoked,0
+Male,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,smokes,0
+Male,68.0,0,0,Yes,Rural,overweight,smokes,0
+Female,27.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,17.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,53.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,20.0,0,0,No,Rural,underweight,formerly smoked,0
+Male,19.0,0,0,No,Rural,overweight,never smoked,0
+Female,31.0,0,0,Yes,Urban,overweight,smokes,0
+Female,63.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,49.0,0,1,Yes,Rural,moderate,smokes,0
+Female,72.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,50.0,1,0,Yes,Urban,obesity,smokes,0
+Male,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,12.0,0,0,No,Rural,moderate,never smoked,0
+Male,31.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,smokes,0
+Female,43.0,0,0,Yes,Urban,overweight,smokes,0
+Female,22.0,0,0,No,Urban,obesity,never smoked,0
+Female,81.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,18.0,0,0,No,Rural,obesity,smokes,0
+Female,24.0,0,0,No,Urban,moderate,never smoked,0
+Female,46.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,25.0,0,0,No,Rural,moderate,never smoked,0
+Male,81.0,1,0,Yes,Urban,obesity,never smoked,0
+Male,65.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,81.0,0,0,No,Urban,moderate,formerly smoked,0
+Male,36.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,32.0,0,0,Yes,Urban,overweight,smokes,0
+Male,31.0,0,0,No,Rural,overweight,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,smokes,0
+Male,39.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,31.0,0,0,No,Rural,obesity,never smoked,0
+Female,36.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,62.0,0,0,Yes,Urban,obesity,smokes,0
+Female,45.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,29.0,0,0,Yes,Urban,obesity,smokes,0
+Female,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,59.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,69.0,1,1,Yes,Urban,obesity,formerly smoked,0
+Male,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,61.0,0,0,Yes,Rural,obesity,smokes,0
+Female,11.0,0,0,No,Urban,obesity,never smoked,0
+Female,64.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,78.0,0,0,No,Rural,obesity,never smoked,0
+Female,14.0,0,0,No,Rural,overweight,never smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,30.0,0,0,No,Urban,obesity,never smoked,0
+Female,61.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,47.0,0,0,Yes,Urban,overweight,smokes,0
+Female,67.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,smokes,0
+Female,45.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,39.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,28.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,31.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,70.0,0,0,Yes,Urban,obesity,smokes,0
+Male,44.0,1,0,Yes,Rural,overweight,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,80.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,79.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,60.0,1,0,Yes,Rural,obesity,smokes,0
+Female,36.0,0,0,No,Urban,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,moderate,smokes,0
+Male,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,28.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,38.0,1,0,Yes,Rural,obesity,smokes,0
+Male,37.0,0,0,Yes,Urban,obesity,smokes,0
+Male,43.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,60.0,1,0,Yes,Rural,obesity,smokes,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,29.0,0,0,No,Urban,overweight,never smoked,0
+Female,48.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,68.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,57.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,29.0,0,0,No,Urban,overweight,never smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,47.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,73.0,0,0,Yes,Rural,moderate,smokes,0
+Female,39.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,52.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,34.0,0,0,No,Rural,obesity,never smoked,0
+Female,79.0,1,0,Yes,Rural,moderate,never smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,smokes,0
+Male,61.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,26.0,0,0,No,Urban,moderate,smokes,0
+Female,66.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,16.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,51.0,1,0,Yes,Urban,obesity,smokes,0
+Male,15.0,0,0,No,Urban,moderate,never smoked,0
+Male,66.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,75.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,40.0,0,0,Yes,Urban,obesity,smokes,0
+Female,48.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,81.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,76.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,16.0,0,0,No,Rural,moderate,never smoked,0
+Female,32.0,0,0,Yes,Urban,moderate,smokes,0
+Female,26.0,0,0,No,Rural,obesity,never smoked,0
+Female,21.0,0,0,No,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,40.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,16.0,0,0,No,Urban,moderate,smokes,0
+Female,27.0,0,0,No,Rural,moderate,smokes,0
+Female,38.0,0,0,Yes,Rural,overweight,smokes,0
+Female,64.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,23.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,smokes,0
+Male,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,73.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,45.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,34.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,81.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,57.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,38.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,41.0,0,0,No,Urban,overweight,never smoked,0
+Female,26.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,18.0,0,0,No,Rural,overweight,never smoked,0
+Male,66.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,18.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,20.0,0,0,No,Rural,obesity,never smoked,0
+Male,11.0,0,0,No,Rural,moderate,never smoked,0
+Male,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,31.0,0,0,No,Urban,obesity,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,smokes,0
+Female,71.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,13.0,0,0,No,Rural,moderate,never smoked,0
+Female,21.0,0,0,No,Urban,obesity,never smoked,0
+Female,63.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,78.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,66.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,41.0,0,0,No,Rural,obesity,never smoked,0
+Male,11.0,0,0,No,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,51.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,79.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,28.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,73.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,42.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,78.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,74.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,59.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,78.0,0,0,Yes,Urban,obesity,smokes,0
+Female,82.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,71.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,18.0,0,0,No,Rural,obesity,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Female,49.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,51.0,0,0,Yes,Rural,overweight,smokes,0
+Female,53.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,smokes,0
+Female,40.0,0,0,No,Rural,obesity,never smoked,0
+Male,56.0,0,0,Yes,Rural,underweight,never smoked,0
+Female,43.0,0,0,No,Urban,overweight,never smoked,0
+Female,28.0,0,0,No,Rural,obesity,smokes,0
+Male,28.0,0,0,No,Urban,moderate,formerly smoked,0
+Male,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,63.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,29.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,48.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,47.0,0,1,Yes,Urban,obesity,smokes,0
+Male,63.0,1,0,Yes,Rural,moderate,smokes,0
+Male,40.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,smokes,0
+Female,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,59.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,78.0,1,0,Yes,Rural,obesity,smokes,0
+Female,27.0,0,0,No,Urban,obesity,never smoked,0
+Female,49.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,14.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,17.0,0,0,No,Urban,moderate,formerly smoked,0
+Male,19.0,0,0,No,Urban,moderate,smokes,0
+Male,54.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,43.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,52.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,62.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,60.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,39.0,0,0,No,Rural,moderate,never smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,60.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,26.0,0,0,No,Urban,moderate,never smoked,0
+Male,16.0,0,0,No,Urban,moderate,never smoked,0
+Female,82.0,0,0,Yes,Urban,underweight,smokes,0
+Female,32.0,0,0,Yes,Urban,obesity,smokes,0
+Female,62.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,75.0,1,0,Yes,Rural,overweight,never smoked,0
+Female,81.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,25.0,0,0,No,Rural,obesity,smokes,0
+Male,44.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,1,0,Yes,Rural,overweight,never smoked,0
+Male,52.0,1,0,Yes,Rural,obesity,smokes,0
+Female,43.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,51.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,82.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,35.0,0,0,Yes,Rural,obesity,smokes,0
+Female,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,No,Rural,obesity,never smoked,0
+Male,10.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,smokes,0
+Female,63.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,56.0,0,1,Yes,Urban,moderate,smokes,0
+Male,49.0,0,1,Yes,Rural,obesity,never smoked,0
+Female,30.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,16.0,0,0,No,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,49.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,17.0,0,0,No,Rural,moderate,never smoked,0
+Male,51.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,74.0,1,1,Yes,Rural,overweight,never smoked,0
+Female,42.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,69.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,22.0,0,0,No,Rural,obesity,smokes,0
+Female,25.0,0,0,No,Urban,moderate,smokes,0
+Male,17.0,0,0,No,Rural,obesity,never smoked,0
+Male,64.0,0,0,No,Rural,overweight,smokes,0
+Male,52.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,65.0,0,1,Yes,Rural,obesity,formerly smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,56.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,16.0,0,0,No,Rural,obesity,never smoked,0
+Male,23.0,0,0,No,Urban,moderate,never smoked,0
+Male,15.0,0,0,No,Urban,obesity,never smoked,0
+Male,48.0,0,0,Yes,Rural,overweight,never smoked,0
+Male,46.0,0,0,Yes,Urban,obesity,smokes,0
+Female,53.0,0,0,Yes,Rural,obesity,smokes,0
+Male,68.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,57.0,0,0,No,Rural,obesity,smokes,0
+Female,51.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,76.0,0,0,Yes,Urban,obesity,smokes,0
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,82.0,1,1,Yes,Urban,obesity,never smoked,0
+Female,33.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,14.0,0,0,No,Urban,overweight,never smoked,0
+Female,18.0,0,0,No,Urban,moderate,never smoked,0
+Female,29.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,56.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,33.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,36.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,31.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,16.0,0,0,No,Urban,obesity,never smoked,0
+Male,58.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,19.0,0,0,No,Urban,moderate,never smoked,0
+Male,47.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,59.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,40.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,26.0,0,0,No,Urban,overweight,smokes,0
+Female,17.0,0,0,No,Urban,obesity,never smoked,0
+Female,30.0,0,0,No,Urban,overweight,never smoked,0
+Female,19.0,0,0,No,Urban,moderate,never smoked,0
+Female,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,33.0,0,0,No,Urban,overweight,never smoked,0
+Male,32.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,55.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,25.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,33.0,0,0,Yes,Urban,obesity,smokes,0
+Male,65.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,62.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,36.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,31.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,53.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,smokes,0
+Female,48.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,42.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,72.0,1,1,Yes,Rural,obesity,formerly smoked,0
+Male,49.0,0,0,Yes,Urban,obesity,smokes,0
+Female,63.0,1,0,Yes,Urban,moderate,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,32.0,0,0,Yes,Urban,obesity,smokes,0
+Male,70.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,10.0,0,0,No,Urban,underweight,never smoked,0
+Male,21.0,0,0,No,Rural,obesity,smokes,0
+Female,55.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,20.0,0,0,Yes,Urban,overweight,smokes,0
+Female,38.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,33.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,14.0,0,0,No,Rural,obesity,never smoked,0
+Female,32.0,0,0,No,Rural,overweight,never smoked,0
+Female,68.0,0,0,Yes,Urban,obesity,smokes,0
+Male,70.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,24.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,44.0,0,0,No,Urban,obesity,formerly smoked,0
+Male,39.0,0,0,Yes,Rural,overweight,smokes,0
+Female,81.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,69.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,28.0,0,0,No,Urban,overweight,smokes,0
+Female,66.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,66.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,78.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,65.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,78.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,68.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,78.0,1,1,Yes,Rural,obesity,never smoked,0
+Female,65.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,70.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,32.0,0,0,Yes,Rural,overweight,smokes,0
+Male,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,61.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,48.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,63.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,67.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,43.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Male,59.0,0,0,Yes,Urban,obesity,smokes,0
+Male,47.0,0,0,Yes,Rural,obesity,smokes,0
+Male,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,51.0,0,1,Yes,Urban,obesity,never smoked,0
+Female,39.0,0,0,No,Rural,obesity,never smoked,0
+Female,24.0,0,0,No,Urban,moderate,never smoked,0
+Male,62.0,0,0,No,Rural,obesity,never smoked,0
+Female,61.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,78.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,15.0,0,0,No,Rural,overweight,never smoked,0
+Female,23.0,0,0,No,Urban,overweight,never smoked,0
+Male,79.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,82.0,0,0,No,Rural,moderate,never smoked,0
+Female,19.0,0,0,No,Rural,overweight,never smoked,0
+Female,79.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,77.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,78.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,24.0,0,0,Yes,Rural,obesity,smokes,0
+Female,81.0,1,0,Yes,Urban,overweight,never smoked,0
+Female,29.0,0,0,No,Urban,moderate,smokes,0
+Female,59.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,41.0,0,0,Yes,Rural,overweight,smokes,0
+Female,17.0,0,0,No,Urban,overweight,formerly smoked,0
+Female,23.0,0,0,No,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,67.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,78.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,35.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,71.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Female,24.0,0,0,No,Rural,overweight,smokes,0
+Male,60.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,75.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Male,48.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,69.0,1,0,No,Urban,obesity,never smoked,0
+Female,60.0,0,0,Yes,Rural,moderate,smokes,0
+Female,28.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Female,55.0,0,0,Yes,Urban,obesity,smokes,0
+Female,70.0,0,1,Yes,Urban,obesity,smokes,0
+Female,51.0,0,0,No,Rural,obesity,never smoked,0
+Female,16.0,0,0,No,Rural,obesity,never smoked,0
+Male,56.0,0,0,No,Urban,obesity,smokes,0
+Male,52.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,46.0,0,0,Yes,Urban,obesity,smokes,0
+Male,49.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,10.0,0,0,No,Rural,underweight,never smoked,0
+Female,76.0,1,0,Yes,Urban,moderate,never smoked,0
+Male,82.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,76.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,16.0,0,0,No,Rural,moderate,never smoked,0
+Female,44.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,17.0,0,0,No,Rural,moderate,formerly smoked,0
+Female,73.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,73.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,42.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,40.0,0,0,Yes,Urban,underweight,formerly smoked,0
+Male,79.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,53.0,0,0,Yes,Urban,overweight,smokes,0
+Female,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,17.0,0,0,No,Rural,underweight,never smoked,0
+Female,23.0,0,0,No,Rural,moderate,smokes,0
+Female,81.0,1,1,Yes,Rural,obesity,smokes,0
+Female,16.0,0,0,No,Rural,moderate,never smoked,0
+Male,21.0,0,0,No,Rural,moderate,never smoked,0
+Male,29.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,37.0,0,0,Yes,Rural,obesity,smokes,0
+Female,64.0,0,0,Yes,Urban,obesity,smokes,0
+Male,17.0,0,0,No,Rural,moderate,smokes,0
+Male,73.0,1,0,No,Urban,obesity,never smoked,0
+Male,48.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,17.0,0,0,No,Rural,overweight,never smoked,0
+Female,74.0,0,0,Yes,Urban,moderate,never smoked,0
+Male,62.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,43.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,39.0,0,0,No,Rural,obesity,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,15.0,0,0,No,Urban,moderate,never smoked,0
+Female,36.0,0,0,No,Urban,moderate,smokes,0
+Male,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,75.0,1,0,Yes,Urban,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Urban,obesity,smokes,0
+Female,61.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,smokes,0
+Female,54.0,1,0,No,Urban,obesity,formerly smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,82.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,34.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,63.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,79.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,31.0,0,0,No,Urban,overweight,formerly smoked,0
+Male,57.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,32.0,0,0,Yes,Rural,overweight,smokes,0
+Male,66.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,22.0,0,0,No,Rural,obesity,smokes,0
+Female,20.0,0,0,No,Urban,moderate,never smoked,0
+Female,41.0,0,0,Yes,Urban,overweight,smokes,0
+Female,48.0,0,0,Yes,Urban,obesity,smokes,0
+Male,49.0,1,0,Yes,Rural,obesity,formerly smoked,0
+Male,19.0,0,0,No,Rural,overweight,smokes,0
+Male,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,34.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,30.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,75.0,0,0,Yes,Rural,overweight,formerly smoked,0
+Female,61.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,55.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,14.0,0,0,No,Rural,overweight,never smoked,0
+Female,36.0,0,0,No,Rural,obesity,smokes,0
+Female,57.0,1,1,Yes,Rural,obesity,formerly smoked,0
+Male,32.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,43.0,0,0,Yes,Urban,obesity,smokes,0
+Female,49.0,0,0,Yes,Urban,obesity,smokes,0
+Female,18.0,0,0,No,Urban,moderate,never smoked,0
+Female,37.0,0,0,Yes,Urban,obesity,smokes,0
+Male,49.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,45.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,50.0,0,1,Yes,Urban,overweight,never smoked,0
+Female,12.0,0,0,No,Rural,moderate,never smoked,0
+Male,39.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,41.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,41.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,47.0,0,0,Yes,Urban,moderate,smokes,0
+Female,57.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,65.0,0,0,Yes,Urban,overweight,smokes,0
+Female,80.0,0,0,No,Urban,obesity,never smoked,0
+Female,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,74.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,62.0,0,0,Yes,Urban,moderate,smokes,0
+Female,21.0,0,0,No,Rural,moderate,never smoked,0
+Female,17.0,0,0,No,Rural,obesity,never smoked,0
+Female,49.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,24.0,0,0,Yes,Urban,obesity,smokes,0
+Female,56.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,26.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,1,0,Yes,Rural,obesity,smokes,0
+Female,42.0,0,0,No,Urban,obesity,never smoked,0
+Female,34.0,0,0,No,Urban,obesity,never smoked,0
+Female,56.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,39.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,77.0,0,0,Yes,Rural,underweight,never smoked,0
+Female,12.0,0,0,No,Rural,underweight,never smoked,0
+Male,65.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,25.0,0,0,No,Urban,overweight,never smoked,0
+Female,60.0,0,0,Yes,Rural,moderate,smokes,0
+Female,53.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,39.0,0,0,Yes,Urban,obesity,smokes,0
+Female,34.0,0,0,No,Rural,obesity,smokes,0
+Female,80.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Male,20.0,0,0,No,Urban,moderate,never smoked,0
+Female,45.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,smokes,0
+Male,36.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,72.0,0,1,Yes,Rural,obesity,smokes,0
+Female,47.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,15.0,0,0,No,Rural,obesity,never smoked,0
+Male,40.0,1,0,Yes,Urban,overweight,smokes,0
+Female,71.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,11.0,0,0,No,Rural,moderate,never smoked,0
+Female,53.0,1,0,Yes,Rural,obesity,smokes,0
+Male,28.0,1,0,No,Urban,obesity,smokes,0
+Female,81.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,16.0,0,0,No,Rural,obesity,never smoked,0
+Male,24.0,0,0,No,Rural,obesity,formerly smoked,0
+Female,62.0,1,0,Yes,Urban,obesity,smokes,0
+Female,62.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,19.0,0,0,No,Urban,obesity,never smoked,0
+Female,51.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,38.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,26.0,0,0,No,Rural,moderate,formerly smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,44.0,0,0,Yes,Urban,moderate,smokes,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,58.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,17.0,0,0,No,Urban,obesity,never smoked,0
+Female,23.0,0,0,No,Urban,overweight,never smoked,0
+Male,51.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,81.0,0,0,No,Urban,obesity,never smoked,0
+Male,38.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,50.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,34.0,0,0,No,Urban,moderate,never smoked,0
+Male,60.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,50.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,49.0,0,0,Yes,Urban,obesity,smokes,0
+Female,34.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,22.0,0,0,No,Urban,moderate,never smoked,0
+Female,11.0,0,0,No,Urban,underweight,never smoked,0
+Male,54.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,60.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,46.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,30.0,0,0,No,Urban,obesity,smokes,0
+Female,63.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,65.0,0,0,Yes,Urban,obesity,smokes,0
+Male,78.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,18.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,44.0,0,0,No,Rural,overweight,never smoked,0
+Female,19.0,0,0,No,Urban,moderate,never smoked,0
+Male,20.0,0,0,No,Rural,obesity,never smoked,0
+Male,76.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,31.0,0,0,No,Urban,obesity,smokes,0
+Male,58.0,0,1,Yes,Rural,overweight,smokes,0
+Female,79.0,0,0,Yes,Urban,moderate,formerly smoked,0
+Female,43.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,34.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,40.0,0,0,Yes,Urban,moderate,never smoked,0
+Female,24.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,20.0,0,0,No,Rural,obesity,never smoked,0
+Female,70.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,68.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,21.0,0,0,No,Rural,overweight,never smoked,0
+Female,38.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,59.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,79.0,0,1,Yes,Rural,overweight,never smoked,0
+Female,50.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,72.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,54.0,0,0,Yes,Urban,obesity,smokes,0
+Female,44.0,0,0,Yes,Urban,obesity,smokes,0
+Female,48.0,0,0,Yes,Rural,moderate,never smoked,0
+Male,29.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,smokes,0
+Female,61.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,81.0,0,0,Yes,Rural,moderate,formerly smoked,0
+Male,29.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,35.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,37.0,0,0,No,Rural,obesity,never smoked,0
+Male,33.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,38.0,0,0,No,Urban,obesity,smokes,0
+Female,26.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,72.0,0,0,Yes,Urban,overweight,never smoked,0
+Male,21.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,20.0,0,0,No,Rural,underweight,never smoked,0
+Female,26.0,0,0,No,Urban,moderate,formerly smoked,0
+Female,79.0,0,0,No,Urban,obesity,formerly smoked,0
+Female,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,56.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,46.0,0,0,No,Rural,overweight,never smoked,0
+Male,41.0,0,0,No,Rural,obesity,formerly smoked,0
+Male,53.0,0,0,Yes,Rural,overweight,smokes,0
+Male,32.0,0,0,No,Rural,overweight,formerly smoked,0
+Male,33.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,44.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,51.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,40.0,0,0,Yes,Urban,obesity,smokes,0
+Female,41.0,0,0,Yes,Rural,overweight,never smoked,0
+Female,42.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,46.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,47.0,0,0,Yes,Urban,overweight,never smoked,0
+Female,25.0,0,0,No,Urban,overweight,smokes,0
+Female,40.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,49.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,21.0,0,0,No,Rural,moderate,never smoked,0
+Male,78.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Male,41.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,82.0,0,0,Yes,Rural,obesity,never smoked,0
+Female,31.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,37.0,0,0,No,Urban,overweight,never smoked,0
+Male,21.0,0,0,No,Urban,overweight,never smoked,0
+Male,80.0,0,0,Yes,Urban,overweight,formerly smoked,0
+Female,21.0,0,0,No,Urban,obesity,never smoked,0
+Female,35.0,0,0,Yes,Rural,obesity,smokes,0
+Female,24.0,0,0,No,Urban,overweight,never smoked,0
+Female,52.0,0,0,Yes,Urban,overweight,smokes,0
+Female,34.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,29.0,0,0,Yes,Urban,obesity,never smoked,0
+Male,55.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Female,44.0,0,0,Yes,Rural,obesity,smokes,0
+Male,67.0,0,0,Yes,Rural,overweight,smokes,0
+Female,72.0,0,0,Yes,Urban,obesity,formerly smoked,0
+Female,63.0,0,0,Yes,Rural,obesity,formerly smoked,0
+Male,26.0,0,0,No,Rural,moderate,smokes,0
+Male,59.0,1,0,Yes,Rural,obesity,never smoked,0
+Male,76.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,45.0,1,0,Yes,Rural,obesity,smokes,0
+Male,57.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,40.0,0,0,Yes,Rural,obesity,smokes,0
+Male,82.0,1,0,Yes,Rural,obesity,never smoked,0
+Female,57.0,0,0,Yes,Rural,moderate,never smoked,0
+Female,80.0,1,0,Yes,Urban,obesity,never smoked,0
+Female,81.0,0,0,Yes,Urban,obesity,never smoked,0
+Female,35.0,0,0,Yes,Rural,obesity,never smoked,0
+Male,51.0,0,0,Yes,Rural,overweight,formerly smoked,0
